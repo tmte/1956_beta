@@ -1714,7 +1714,7 @@ news_event = {
 	id = cityfall.41
 	title = cityfall.41.t
 	desc = cityfall.41.d
-	picture = GFX_news_event_strasbourg
+	picture = GFX_news_event_FRA_infantry_parade
 	
 	major = yes
 	
