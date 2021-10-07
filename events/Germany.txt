@@ -2878,7 +2878,15 @@ country_event = {
 
 	option = {
 		name = germany.55.a
-		ai_chance = { factor = 80 }
+		ai_chance = { 
+			factor = 80
+			modifier = {
+				factor = 0
+				SLO = {
+					country_exists = yes
+				}
+			} 
+		}
 		if = {
 			limit = {
 				70 = {
@@ -3044,8 +3052,13 @@ country_event = {
 			factor = 10
 			modifier = {
 				factor = 0
-				is_historical_focus_on = yes
-			}
+				OR = {
+					is_historical_focus_on = yes
+					SLO = {
+						country_exists = yes
+					}
+				}					
+			}			
 		}
 		trigger = {
 			664 = { is_owned_by = HUN }
