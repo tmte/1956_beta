@@ -1611,6 +1611,50 @@ on_actions = {
 						target = ADU
 						size = 0.1
 					}
+					CAT = {
+						every_owned_state = {
+							limit = {
+								has_dynamic_modifier = {
+									modifier = autonomous_state
+								}
+								
+							}
+							remove_dynamic_modifier = { modifier = autonomous_state } 
+						}
+					}
+					NAV = {
+						every_owned_state = {
+							limit = {
+								has_dynamic_modifier = {
+									modifier = autonomous_state
+								}
+								
+							}
+							remove_dynamic_modifier = { modifier = autonomous_state } 
+						}
+					}
+					GLC = {
+						every_owned_state = {
+							limit = {
+								has_dynamic_modifier = {
+									modifier = autonomous_state
+								}
+								
+							}
+							remove_dynamic_modifier = { modifier = autonomous_state } 
+						}
+					}
+					ADU = {
+						every_owned_state = {
+							limit = {
+								has_dynamic_modifier = {
+									modifier = autonomous_state
+								}
+								
+							}
+							remove_dynamic_modifier = { modifier = autonomous_state } 
+						}
+					}
 				}
 				118 = {
 					add_extra_state_shared_building_slots = 1
@@ -1925,6 +1969,50 @@ on_actions = {
 						size = 0.1
 					}
 				}
+				CAT = {
+					every_owned_state = {
+						limit = {
+							has_dynamic_modifier = {
+								modifier = autonomous_state
+							}
+							
+						}
+						remove_dynamic_modifier = { modifier = autonomous_state } 
+					}
+				}
+				NAV = {
+					every_owned_state = {
+						limit = {
+							has_dynamic_modifier = {
+								modifier = autonomous_state
+							}
+							
+						}
+						remove_dynamic_modifier = { modifier = autonomous_state } 
+					}
+				}
+				GLC = {
+					every_owned_state = {
+						limit = {
+							has_dynamic_modifier = {
+								modifier = autonomous_state
+							}
+							
+						}
+						remove_dynamic_modifier = { modifier = autonomous_state } 
+					}
+				}
+				ADU = {
+					every_owned_state = {
+						limit = {
+							has_dynamic_modifier = {
+								modifier = autonomous_state
+							}
+							
+						}
+						remove_dynamic_modifier = { modifier = autonomous_state } 
+					}
+				}				
 				ADU = {
 					173 = {
 						add_dynamic_modifier = { modifier = islamists_placated }

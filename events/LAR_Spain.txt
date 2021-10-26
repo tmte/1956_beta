@@ -5658,6 +5658,16 @@ country_event = {
 						state = 793
 						state = 794
 					}
+					#ensure that in fragmented mode, those aren't applied everywhere. 
+					NOT = {
+						OR = {
+							is_owned_by = CAT
+							is_owned_by = NAV
+							is_owned_by = GLC
+							is_owned_by = ADU
+						}
+						
+					}
 				}
 				add_province_modifier = {
 					static_modifiers = { unplanned_offensive }

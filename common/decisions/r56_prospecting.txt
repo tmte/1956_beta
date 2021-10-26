@@ -21168,7 +21168,7 @@ prospect_for_resources = {
 			}
 		}
 	}
-	develop_kuantan_aluminium_deposits_wtt = { #794
+	develop_kuantan_aluminium_deposits_wtt = { #833
 		
 		icon = aluminium
 
@@ -21190,11 +21190,11 @@ prospect_for_resources = {
 			num_of_civilian_factories_available_for_projects > 3
 			OR = {
 				AND = {
-					has_full_control_of_state = 794
+					has_full_control_of_state = 833
 				}
 				any_country = {
 					is_puppet_of = ROOT
-					has_full_control_of_state = 794
+					has_full_control_of_state = 833
 				}				
 			}
 			NOT = {
@@ -21205,17 +21205,17 @@ prospect_for_resources = {
 		}
 
 		highlight_states = {
-			state = 794
+			state = 833
 		}
 
 		visible = {
 			OR = {
 				AND = {
-					has_full_control_of_state = 794
+					has_full_control_of_state = 833
 				}
 				any_country = {
 					is_puppet_of = ROOT
-					has_full_control_of_state = 794
+					has_full_control_of_state = 833
 				}				
 			}
 		}
@@ -21246,8 +21246,8 @@ prospect_for_resources = {
 		}
 
 		remove_effect = {
-			794 = { set_state_flag = kuantan_aluminium_developed }
-			794 = {
+			833 = { set_state_flag = kuantan_aluminium_developed }
+			833 = {
 				add_resource = {
 					type = aluminium
 					amount = 18
