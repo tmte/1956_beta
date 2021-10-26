@@ -26,7 +26,7 @@ news_event = {
     id = worldnews.2
     title = worldnews.2.t
     desc = worldnews.2.d
-    picture = GFX_news_event_french_parade
+    picture = GFX_news_event_FRA_infantry_parade
     
     is_triggered_only = yes
 
@@ -44,7 +44,7 @@ news_event = {
     id = worldnews.3
     title = worldnews.3.t
     desc = worldnews.3.d
-    picture = GFX_news_event_french_parade
+    picture = GFX_news_event_FRA_tank_parade
     
     is_triggered_only = yes
 
