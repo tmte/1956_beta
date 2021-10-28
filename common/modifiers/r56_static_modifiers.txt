@@ -93,7 +93,28 @@ JAP_support_the_burmese_liberation_movement = {
 	}
 	compliance_gain = 0.20
 }
-
+MAN_reestablishment_of_imperial_rule = {
+	valid_relation_trigger = {
+		tag = MAN  
+		OR = {
+			has_government = fascism
+			has_government = neutrality
+		}
+		#OR = {
+		#	original_tag = CHI
+		#	original_tag = PRC
+		#	original_tag = GXC
+		#	original_tag = YUN
+		#	original_tag = XSM
+		#	original_tag = SHX
+		#	original_tag = SIK
+		#	original_tag = TNG
+		#	
+		#}
+		
+	}
+	compliance_gain = 0.20
+}
 ADU_lead_the_ummah = {
 	valid_relation_trigger = {
 		OR = {

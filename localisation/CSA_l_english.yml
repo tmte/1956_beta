@@ -6,6 +6,8 @@
  CSA_generic_naval_manufacturer:0 "ADDSCO"
  CSA_generic_naval_manufacturer_desc:0 "Alabama Drydock and Shipbuilding Company"
  CSA_generic_artillery_manufacturer:0 "Huntsville Arsenal"
+ CSA_ingalls_shipyard:0 "Ingalls Shipyard"
+ CSA_avondale_shipyard:0 "Avondale Shipyard"
 
  CSA_restablish_the_confederate_army:0 "Re-establish the Confederate Army"
  CSA_restablish_the_confederate_army_desc:0 ""

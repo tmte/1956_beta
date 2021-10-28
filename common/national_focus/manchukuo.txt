@@ -1178,10 +1178,47 @@
 
 		search_filters = { FOCUS_FILTER_ANNEXATION FOCUS_FILTER_POLITICAL }
 		completion_reward = {
-			every_state = {
-				limit = { is_core_of = CHI }
-				add_core_of = ROOT
+			add_relation_modifier = {
+				target = CHI
+				modifier = MAN_reestablishment_of_imperial_rule
 			}
+			add_relation_modifier = {
+				target = PRC
+				modifier = MAN_reestablishment_of_imperial_rule
+			}			
+			add_relation_modifier = {
+				target = GXC
+				modifier = MAN_reestablishment_of_imperial_rule
+			}	
+			add_relation_modifier = {
+				target = SHX
+				modifier = MAN_reestablishment_of_imperial_rule
+			}
+			add_relation_modifier = {
+				target = GXC
+				modifier = MAN_reestablishment_of_imperial_rule
+			}			
+			add_relation_modifier = {
+				target = TNG
+				modifier = MAN_reestablishment_of_imperial_rule
+			}
+			add_relation_modifier = {
+				target = SIK
+				modifier = MAN_reestablishment_of_imperial_rule
+			}
+			add_relation_modifier = {
+				target = MEN
+				modifier = MAN_reestablishment_of_imperial_rule
+			}				
+			add_relation_modifier = {
+				target = MON
+				modifier = MAN_reestablishment_of_imperial_rule
+			}
+																								
+			#every_state = {
+			#	limit = { is_core_of = CHI }
+			#	add_core_of = ROOT
+			#}
 		}
 	}
 

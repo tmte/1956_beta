@@ -2839,7 +2839,10 @@ ideas = {
 		
 			
 			allowed = {
-				original_tag = USA
+				OR = {
+					original_tag = USA
+					original_tag = CSA
+				}
 			}
 			
 			available = {
