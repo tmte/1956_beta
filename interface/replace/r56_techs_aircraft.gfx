@@ -582,7 +582,7 @@ SpriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_ENG_jet_fighter_a_medium"
-		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_ENG_jet_fighter_02.dds"
+		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_ENG_jet_fighter_03.dds"
 	}
 
 #-> Carrier-based jet fighters <><>
@@ -596,7 +596,7 @@ SpriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_ENG_jet_cv_fighter_a_medium"
-		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_ENG_jet_fighter_02.dds"
+		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_ENG_jet_fighter_03.dds"
 	}
 
 #-> Jet medium bombers <><>
@@ -848,7 +848,7 @@ SpriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_NIR_jet_fighter_a_medium"
-		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_ENG_jet_fighter_02.dds"
+		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_ENG_jet_fighter_03.dds"
 	}
 
 #-> Carrier-based jet fighters <><>
@@ -862,7 +862,7 @@ SpriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_NIR_jet_cv_fighter_a_medium"
-		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_ENG_jet_fighter_02.dds"
+		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_ENG_jet_fighter_03.dds"
 	}
 
 #-> Jet medium bombers <><>
@@ -1115,7 +1115,7 @@ SpriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_SCO_jet_fighter_a_medium"
-		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_ENG_jet_fighter_02.dds"
+		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_ENG_jet_fighter_03.dds"
 	}
 
 #-> Carrier-based jet fighters <><>
@@ -1129,7 +1129,7 @@ SpriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_SCO_jet_cv_fighter_a_medium"
-		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_ENG_jet_fighter_02.dds"
+		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_ENG_jet_fighter_03.dds"
 	}
 
 #-> Jet medium bombers <><>
@@ -1382,7 +1382,7 @@ SpriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_WLS_jet_fighter_a_medium"
-		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_ENG_jet_fighter_02.dds"
+		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_ENG_jet_fighter_03.dds"
 	}
 
 #-> Carrier-based jet fighters <><>
@@ -1396,7 +1396,7 @@ SpriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_WLS_jet_cv_fighter_a_medium"
-		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_ENG_jet_fighter_02.dds"
+		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_ENG_jet_fighter_03.dds"
 	}
 
 #-> Jet medium bombers <><>
@@ -2146,7 +2146,7 @@ SpriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_NZL_jet_fighter_a_medium"
-		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_ENG_jet_fighter_02.dds"
+		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_ENG_jet_fighter_03.dds"
 	}
 
 #-> Carrier-based jet fighters <><>
@@ -2160,7 +2160,7 @@ SpriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_NZL_jet_cv_fighter_a_medium"
-		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_ENG_jet_fighter_02.dds"
+		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_ENG_jet_fighter_03.dds"
 	}
 
 #-> Jet medium bombers <><>
@@ -2412,7 +2412,7 @@ SpriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_RAJ_jet_fighter_a_medium"
-		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_ENG_jet_fighter_02.dds"
+		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_ENG_jet_fighter_03.dds"
 	}
 
 #-> Carrier-based jet fighters <><>
@@ -2426,7 +2426,7 @@ SpriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_RAJ_jet_cv_fighter_a_medium"
-		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_ENG_jet_fighter_02.dds"
+		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_ENG_jet_fighter_03.dds"
 	}
 
 #-> Jet medium bombers <><>
@@ -2678,7 +2678,7 @@ SpriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_IND_jet_fighter_a_medium"
-		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_ENG_jet_fighter_02.dds"
+		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_ENG_jet_fighter_03.dds"
 	}
 
 #-> Carrier-based jet fighters <><>
@@ -2692,7 +2692,7 @@ SpriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_IND_jet_cv_fighter_a_medium"
-		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_ENG_jet_fighter_02.dds"
+		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_ENG_jet_fighter_03.dds"
 	}
 
 #-> Jet medium bombers <><>
@@ -2944,7 +2944,7 @@ SpriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_SAF_jet_fighter_a_medium"
-		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_ENG_jet_fighter_02.dds"
+		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_ENG_jet_fighter_03.dds"
 	}
 
 #-> Carrier-based jet fighters <><>
@@ -2958,7 +2958,7 @@ SpriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_SAF_jet_cv_fighter_a_medium"
-		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_ENG_jet_fighter_02.dds"
+		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_ENG_jet_fighter_03.dds"
 	}
 
 #-> Jet medium bombers <><>
@@ -9924,7 +9924,7 @@ SpriteTypes = {
 #-> Medium bomber <><>
 	SpriteType = {
 		name = "GFX_HOL_early_bomber_medium"
-		texturefile = "gfx/interface/technologies/aircraft/medium_bomber/r56_tech_PRC_medium_bomber_00.dds"
+		texturefile = "gfx/interface/technologies/aircraft/medium_bomber/r56_tech_HOL_medium_bomber_00.dds"
 	}
 	SpriteType = {
 		name = "GFX_HOL_tactical_bomber1_medium"
@@ -10167,7 +10167,7 @@ SpriteTypes = {
 #-> Medium bomber <><>
 	SpriteType = {
 		name = "GFX_INS_early_bomber_medium"
-		texturefile = "gfx/interface/technologies/aircraft/medium_bomber/r56_tech_PRC_medium_bomber_00.dds"
+		texturefile = "gfx/interface/technologies/aircraft/medium_bomber/r56_tech_HOL_medium_bomber_00.dds"
 	}
 	SpriteType = {
 		name = "GFX_INS_tactical_bomber1_medium"
@@ -12255,17 +12255,17 @@ SpriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_MAN_CAS2_medium"
-		texturefile = "gfx/interface/technologies/aircraft/dive_bomber/r56_tech_MAN_dive_bomber_02.dds"
+		texturefile = "gfx/interface/technologies/aircraft/dive_bomber/r56_tech_JAP_dive_bomber_02.dds"
 	}
 	SpriteType = {
 		name = "GFX_MAN_CAS3_medium"
-		texturefile = "gfx/interface/technologies/aircraft/dive_bomber/r56_tech_MAN_dive_bomber_03.dds"
+		texturefile = "gfx/interface/technologies/aircraft/dive_bomber/r56_tech_JAP_dive_bomber_03.dds"
 	}
 
 #-> Carrier dive bombers <><>
 	SpriteType = {
 		name = "GFX_MAN_cv_CAS1_medium"
-		texturefile = "gfx/interface/technologies/aircraft/cv_dive_bomber/r56_tech_MAN_cv_dive_bomber_01.dds"
+		texturefile = "gfx/interface/technologies/aircraft/cv_dive_bomber/r56_tech_JAP_cv_dive_bomber_01.dds"
 	}
 		SpriteType = {
 		name = "GFX_MAN_cv_CAS2_medium"
@@ -12273,7 +12273,7 @@ SpriteTypes = {
 	}
 		SpriteType = {
 		name = "GFX_MAN_cv_CAS3_medium"
-		texturefile = "gfx/interface/technologies/aircraft/cv_dive_bomber/r56_tech_MAN_cv_dive_bomber_03.dds"
+		texturefile = "gfx/interface/technologies/aircraft/cv_dive_bomber/r56_tech_JAP_cv_dive_bomber_03.dds"
 	}
 
 #-> Light fighters <><>
@@ -12291,25 +12291,25 @@ SpriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_MAN_fighter3_medium"
-		texturefile = "gfx/interface/technologies/aircraft/fighter/r56_tech_MAN_fighter_03.dds"
+		texturefile = "gfx/interface/technologies/aircraft/fighter/r56_tech_JAP_fighter_03.dds"
 	}
 
 #-> Carrier-based light fighters <><>
 	SpriteType = {
 		name = "GFX_MAN_cv_early_fighter_medium"
-		texturefile = "gfx/interface/technologies/aircraft/cv_fighter/r56_tech_MAN_cv_fighter_00.dds"
+		texturefile = "gfx/interface/technologies/aircraft/cv_fighter/r56_tech_JAP_cv_fighter_00.dds"
 	}
 		SpriteType = {
 		name = "GFX_MAN_cv_fighter1_medium"
-		texturefile = "gfx/interface/technologies/aircraft/cv_fighter/r56_tech_MAN_cv_fighter_01.dds"
+		texturefile = "gfx/interface/technologies/aircraft/cv_fighter/r56_tech_JAP_cv_fighter_01.dds"
 	}
 		SpriteType = {
 		name = "GFX_MAN_cv_fighter2_medium"
-		texturefile = "gfx/interface/technologies/aircraft/cv_fighter/r56_tech_MAN_cv_fighter_02.dds"
+		texturefile = "gfx/interface/technologies/aircraft/cv_fighter/r56_tech_JAP_cv_fighter_02.dds"
 	}
 	SpriteType = {
 		name = "GFX_MAN_cv_fighter3_medium"
-		texturefile = "gfx/interface/technologies/aircraft/cv_fighter/r56_tech_MAN_cv_fighter_03.dds"
+		texturefile = "gfx/interface/technologies/aircraft/cv_fighter/r56_tech_JAP_cv_fighter_03.dds"
 	}
 
 #-> Torpedo bombers <><>
@@ -12319,7 +12319,7 @@ SpriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_MAN_naval_bomber2_medium"
-		texturefile = "gfx/interface/technologies/aircraft/naval_bomber/r56_tech_MAN_naval_bomber_02.dds"
+		texturefile = "gfx/interface/technologies/aircraft/naval_bomber/r56_tech_JAP_naval_bomber_02.dds"
 	}
 	SpriteType = {
 		name = "GFX_MAN_naval_bomber3_medium"
@@ -12361,11 +12361,11 @@ SpriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_MAN_tactical_bomber2_medium"
-		texturefile = "gfx/interface/technologies/aircraft/medium_bomber/r56_tech_MAN_medium_bomber_02.dds"
+		texturefile = "gfx/interface/technologies/aircraft/medium_bomber/r56_tech_JAP_medium_bomber_02.dds"
 	}
 	SpriteType = {
 		name = "GFX_MAN_tactical_bomber3_medium"
-		texturefile = "gfx/interface/technologies/aircraft/medium_bomber/r56_tech_MAN_medium_bomber_03.dds"
+		texturefile = "gfx/interface/technologies/aircraft/medium_bomber/r56_tech_JAP_medium_bomber_03.dds"
 	}
 
 #-> Medium maritime bomber <><>
@@ -12375,11 +12375,11 @@ SpriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_MAN_med_maritime2_medium"
-		texturefile = "gfx/interface/technologies/aircraft/medium_bomber/r56_tech_MAN_medium_bomber_02.dds"
+		texturefile = "gfx/interface/technologies/aircraft/medium_bomber/r56_tech_JAP_medium_bomber_02.dds"
 	}
 	SpriteType = {
 		name = "GFX_MAN_med_maritime3_medium"
-		texturefile = "gfx/interface/technologies/aircraft/medium_bomber/r56_tech_MAN_medium_bomber_03.dds"
+		texturefile = "gfx/interface/technologies/aircraft/medium_bomber/r56_tech_JAP_medium_bomber_03.dds"
 	}
 
 #-> Heavy bomber <><>
@@ -12413,7 +12413,7 @@ SpriteTypes = {
 #-> Maritime patrol <><>
 	SpriteType = {
 		name = "GFX_MAN_flying_boat1_medium"
-		texturefile = "gfx/interface/technologies/aircraft/maritime_patrol/r56_tech_MAN_maritime_patrol_01.dds"
+		texturefile = "gfx/interface/technologies/aircraft/maritime_patrol/r56_tech_JAP_maritime_patrol_01.dds"
 	}
 	SpriteType = {
 		name = "GFX_MAN_flying_boat2_medium"
@@ -12441,11 +12441,11 @@ SpriteTypes = {
 #-> Jet fighters <><>
 	SpriteType = {
 		name = "GFX_MAN_jet_fighter1_medium"
-		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_MAN_jet_fighter_01.dds"
+		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_JAP_jet_fighter_01.dds"
 	}
 	SpriteType = {
 		name = "GFX_MAN_jet_fighter2_medium"
-		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_MAN_jet_fighter_02.dds"
+		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_JAP_jet_fighter_02.dds"
 	}
 	SpriteType = {
 		name = "GFX_MAN_jet_fighter_a_medium"
@@ -12455,11 +12455,11 @@ SpriteTypes = {
 #-> Carrier-based jet fighters <><>
 	SpriteType = {
 		name = "GFX_MAN_jet_cv_fighter1_medium"
-		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_MAN_jet_fighter_01.dds"
+		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_JAP_jet_fighter_01.dds"
 	}
 	SpriteType = {
 		name = "GFX_MAN_jet_cv_fighter2_medium"
-		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_MAN_jet_fighter_02.dds"
+		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_JAP_jet_fighter_02.dds"
 	}
 	SpriteType = {
 		name = "GFX_MAN_jet_cv_fighter_a_medium"
@@ -12506,17 +12506,17 @@ SpriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_KOR_CAS2_medium"
-		texturefile = "gfx/interface/technologies/aircraft/dive_bomber/r56_tech_MAN_dive_bomber_02.dds"
+		texturefile = "gfx/interface/technologies/aircraft/dive_bomber/r56_tech_JAP_dive_bomber_02.dds"
 	}
 	SpriteType = {
 		name = "GFX_KOR_CAS3_medium"
-		texturefile = "gfx/interface/technologies/aircraft/dive_bomber/r56_tech_MAN_dive_bomber_03.dds"
+		texturefile = "gfx/interface/technologies/aircraft/dive_bomber/r56_tech_JAP_dive_bomber_03.dds"
 	}
 
 #-> Carrier dive bombers <><>
 	SpriteType = {
 		name = "GFX_KOR_cv_CAS1_medium"
-		texturefile = "gfx/interface/technologies/aircraft/cv_dive_bomber/r56_tech_MAN_cv_dive_bomber_01.dds"
+		texturefile = "gfx/interface/technologies/aircraft/cv_dive_bomber/r56_tech_JAP_cv_dive_bomber_01.dds"
 	}
 		SpriteType = {
 		name = "GFX_KOR_cv_CAS2_medium"
@@ -12524,7 +12524,7 @@ SpriteTypes = {
 	}
 		SpriteType = {
 		name = "GFX_KOR_cv_CAS3_medium"
-		texturefile = "gfx/interface/technologies/aircraft/cv_dive_bomber/r56_tech_MAN_cv_dive_bomber_03.dds"
+		texturefile = "gfx/interface/technologies/aircraft/cv_dive_bomber/r56_tech_JAP_cv_dive_bomber_03.dds"
 	}
 
 #-> Light fighters <><>
@@ -12542,25 +12542,25 @@ SpriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_KOR_fighter3_medium"
-		texturefile = "gfx/interface/technologies/aircraft/fighter/r56_tech_MAN_fighter_03.dds"
+		texturefile = "gfx/interface/technologies/aircraft/fighter/r56_tech_JAP_fighter_03.dds"
 	}
 
 #-> Carrier-based light fighters <><>
 	SpriteType = {
 		name = "GFX_KOR_cv_early_fighter_medium"
-		texturefile = "gfx/interface/technologies/aircraft/cv_fighter/r56_tech_MAN_cv_fighter_00.dds"
+		texturefile = "gfx/interface/technologies/aircraft/cv_fighter/r56_tech_JAP_cv_fighter_00.dds"
 	}
 		SpriteType = {
 		name = "GFX_KOR_cv_fighter1_medium"
-		texturefile = "gfx/interface/technologies/aircraft/cv_fighter/r56_tech_MAN_cv_fighter_01.dds"
+		texturefile = "gfx/interface/technologies/aircraft/cv_fighter/r56_tech_JAP_cv_fighter_01.dds"
 	}
 		SpriteType = {
 		name = "GFX_KOR_cv_fighter2_medium"
-		texturefile = "gfx/interface/technologies/aircraft/cv_fighter/r56_tech_MAN_cv_fighter_02.dds"
+		texturefile = "gfx/interface/technologies/aircraft/cv_fighter/r56_tech_JAP_cv_fighter_02.dds"
 	}
 	SpriteType = {
 		name = "GFX_KOR_cv_fighter3_medium"
-		texturefile = "gfx/interface/technologies/aircraft/cv_fighter/r56_tech_MAN_cv_fighter_03.dds"
+		texturefile = "gfx/interface/technologies/aircraft/cv_fighter/r56_tech_JAP_cv_fighter_03.dds"
 	}
 
 #-> Torpedo bombers <><>
@@ -12570,7 +12570,7 @@ SpriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_KOR_naval_bomber2_medium"
-		texturefile = "gfx/interface/technologies/aircraft/naval_bomber/r56_tech_MAN_naval_bomber_02.dds"
+		texturefile = "gfx/interface/technologies/aircraft/naval_bomber/r56_tech_JAP_naval_bomber_02.dds"
 	}
 	SpriteType = {
 		name = "GFX_KOR_naval_bomber3_medium"
@@ -12612,11 +12612,11 @@ SpriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_KOR_tactical_bomber2_medium"
-		texturefile = "gfx/interface/technologies/aircraft/medium_bomber/r56_tech_MAN_medium_bomber_02.dds"
+		texturefile = "gfx/interface/technologies/aircraft/medium_bomber/r56_tech_JAP_medium_bomber_02.dds"
 	}
 	SpriteType = {
 		name = "GFX_KOR_tactical_bomber3_medium"
-		texturefile = "gfx/interface/technologies/aircraft/medium_bomber/r56_tech_MAN_medium_bomber_03.dds"
+		texturefile = "gfx/interface/technologies/aircraft/medium_bomber/r56_tech_JAP_medium_bomber_03.dds"
 	}
 
 #-> Medium maritime bomber <><>
@@ -12626,11 +12626,11 @@ SpriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_KOR_med_maritime2_medium"
-		texturefile = "gfx/interface/technologies/aircraft/medium_bomber/r56_tech_MAN_medium_bomber_02.dds"
+		texturefile = "gfx/interface/technologies/aircraft/medium_bomber/r56_tech_JAP_medium_bomber_02.dds"
 	}
 	SpriteType = {
 		name = "GFX_KOR_med_maritime3_medium"
-		texturefile = "gfx/interface/technologies/aircraft/medium_bomber/r56_tech_MAN_medium_bomber_03.dds"
+		texturefile = "gfx/interface/technologies/aircraft/medium_bomber/r56_tech_JAP_medium_bomber_03.dds"
 	}
 
 #-> Heavy bomber <><>
@@ -12664,7 +12664,7 @@ SpriteTypes = {
 #-> Maritime patrol <><>
 	SpriteType = {
 		name = "GFX_KOR_flying_boat1_medium"
-		texturefile = "gfx/interface/technologies/aircraft/maritime_patrol/r56_tech_MAN_maritime_patrol_01.dds"
+		texturefile = "gfx/interface/technologies/aircraft/maritime_patrol/r56_tech_JAP_maritime_patrol_01.dds"
 	}
 	SpriteType = {
 		name = "GFX_KOR_flying_boat2_medium"
@@ -12692,11 +12692,11 @@ SpriteTypes = {
 #-> Jet fighters <><>
 	SpriteType = {
 		name = "GFX_KOR_jet_fighter1_medium"
-		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_MAN_jet_fighter_01.dds"
+		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_JAP_jet_fighter_01.dds"
 	}
 	SpriteType = {
 		name = "GFX_KOR_jet_fighter2_medium"
-		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_MAN_jet_fighter_02.dds"
+		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_JAP_jet_fighter_02.dds"
 	}
 	SpriteType = {
 		name = "GFX_KOR_jet_fighter_a_medium"
@@ -12706,11 +12706,11 @@ SpriteTypes = {
 #-> Carrier-based jet fighters <><>
 	SpriteType = {
 		name = "GFX_KOR_jet_cv_fighter1_medium"
-		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_MAN_jet_fighter_01.dds"
+		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_JAP_jet_fighter_01.dds"
 	}
 	SpriteType = {
 		name = "GFX_KOR_jet_cv_fighter2_medium"
-		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_MAN_jet_fighter_02.dds"
+		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_JAP_jet_fighter_02.dds"
 	}
 	SpriteType = {
 		name = "GFX_KOR_jet_cv_fighter_a_medium"
@@ -12758,17 +12758,17 @@ SpriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_SIA_CAS2_medium"
-		texturefile = "gfx/interface/technologies/aircraft/dive_bomber/r56_tech_MAN_dive_bomber_02.dds"
+		texturefile = "gfx/interface/technologies/aircraft/dive_bomber/r56_tech_JAP_dive_bomber_02.dds"
 	}
 	SpriteType = {
 		name = "GFX_SIA_CAS3_medium"
-		texturefile = "gfx/interface/technologies/aircraft/dive_bomber/r56_tech_MAN_dive_bomber_03.dds"
+		texturefile = "gfx/interface/technologies/aircraft/dive_bomber/r56_tech_JAP_dive_bomber_03.dds"
 	}
 
 #-> Carrier dive bombers <><>
 	SpriteType = {
 		name = "GFX_SIA_cv_CAS1_medium"
-		texturefile = "gfx/interface/technologies/aircraft/cv_dive_bomber/r56_tech_MAN_cv_dive_bomber_01.dds"
+		texturefile = "gfx/interface/technologies/aircraft/cv_dive_bomber/r56_tech_JAP_cv_dive_bomber_01.dds"
 	}
 		SpriteType = {
 		name = "GFX_SIA_cv_CAS2_medium"
@@ -12776,7 +12776,7 @@ SpriteTypes = {
 	}
 		SpriteType = {
 		name = "GFX_SIA_cv_CAS3_medium"
-		texturefile = "gfx/interface/technologies/aircraft/cv_dive_bomber/r56_tech_MAN_cv_dive_bomber_03.dds"
+		texturefile = "gfx/interface/technologies/aircraft/cv_dive_bomber/r56_tech_JAP_cv_dive_bomber_03.dds"
 	}
 
 #-> Light fighters <><>
@@ -12794,25 +12794,25 @@ SpriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_SIA_fighter3_medium"
-		texturefile = "gfx/interface/technologies/aircraft/fighter/r56_tech_MAN_fighter_03.dds"
+		texturefile = "gfx/interface/technologies/aircraft/fighter/r56_tech_JAP_fighter_03.dds"
 	}
 
 #-> Carrier-based light fighters <><>
 	SpriteType = {
 		name = "GFX_SIA_cv_early_fighter_medium"
-		texturefile = "gfx/interface/technologies/aircraft/cv_fighter/r56_tech_MAN_cv_fighter_00.dds"
+		texturefile = "gfx/interface/technologies/aircraft/cv_fighter/r56_tech_JAP_cv_fighter_00.dds"
 	}
 		SpriteType = {
 		name = "GFX_SIA_cv_fighter1_medium"
-		texturefile = "gfx/interface/technologies/aircraft/cv_fighter/r56_tech_MAN_cv_fighter_01.dds"
+		texturefile = "gfx/interface/technologies/aircraft/cv_fighter/r56_tech_JAP_cv_fighter_01.dds"
 	}
 		SpriteType = {
 		name = "GFX_SIA_cv_fighter2_medium"
-		texturefile = "gfx/interface/technologies/aircraft/cv_fighter/r56_tech_MAN_cv_fighter_02.dds"
+		texturefile = "gfx/interface/technologies/aircraft/cv_fighter/r56_tech_JAP_cv_fighter_02.dds"
 	}
 	SpriteType = {
 		name = "GFX_SIA_cv_fighter3_medium"
-		texturefile = "gfx/interface/technologies/aircraft/cv_fighter/r56_tech_MAN_cv_fighter_03.dds"
+		texturefile = "gfx/interface/technologies/aircraft/cv_fighter/r56_tech_JAP_cv_fighter_03.dds"
 	}
 
 #-> Torpedo bombers <><>
@@ -12822,7 +12822,7 @@ SpriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_SIA_naval_bomber2_medium"
-		texturefile = "gfx/interface/technologies/aircraft/naval_bomber/r56_tech_MAN_naval_bomber_02.dds"
+		texturefile = "gfx/interface/technologies/aircraft/naval_bomber/r56_tech_JAP_naval_bomber_02.dds"
 	}
 	SpriteType = {
 		name = "GFX_SIA_naval_bomber3_medium"
@@ -12864,11 +12864,11 @@ SpriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_SIA_tactical_bomber2_medium"
-		texturefile = "gfx/interface/technologies/aircraft/medium_bomber/r56_tech_MAN_medium_bomber_02.dds"
+		texturefile = "gfx/interface/technologies/aircraft/medium_bomber/r56_tech_JAP_medium_bomber_02.dds"
 	}
 	SpriteType = {
 		name = "GFX_SIA_tactical_bomber3_medium"
-		texturefile = "gfx/interface/technologies/aircraft/medium_bomber/r56_tech_MAN_medium_bomber_03.dds"
+		texturefile = "gfx/interface/technologies/aircraft/medium_bomber/r56_tech_JAP_medium_bomber_03.dds"
 	}
 
 #-> Medium maritime bomber <><>
@@ -12878,11 +12878,11 @@ SpriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_SIA_med_maritime2_medium"
-		texturefile = "gfx/interface/technologies/aircraft/medium_bomber/r56_tech_MAN_medium_bomber_02.dds"
+		texturefile = "gfx/interface/technologies/aircraft/medium_bomber/r56_tech_JAP_medium_bomber_02.dds"
 	}
 	SpriteType = {
 		name = "GFX_SIA_med_maritime3_medium"
-		texturefile = "gfx/interface/technologies/aircraft/medium_bomber/r56_tech_MAN_medium_bomber_03.dds"
+		texturefile = "gfx/interface/technologies/aircraft/medium_bomber/r56_tech_JAP_medium_bomber_03.dds"
 	}
 
 #-> Heavy bomber <><>
@@ -12916,7 +12916,7 @@ SpriteTypes = {
 #-> Maritime patrol <><>
 	SpriteType = {
 		name = "GFX_SIA_flying_boat1_medium"
-		texturefile = "gfx/interface/technologies/aircraft/maritime_patrol/r56_tech_MAN_maritime_patrol_01.dds"
+		texturefile = "gfx/interface/technologies/aircraft/maritime_patrol/r56_tech_JAP_maritime_patrol_01.dds"
 	}
 	SpriteType = {
 		name = "GFX_SIA_flying_boat2_medium"
@@ -12944,11 +12944,11 @@ SpriteTypes = {
 #-> Jet fighters <><>
 	SpriteType = {
 		name = "GFX_SIA_jet_fighter1_medium"
-		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_MAN_jet_fighter_01.dds"
+		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_JAP_jet_fighter_01.dds"
 	}
 	SpriteType = {
 		name = "GFX_SIA_jet_fighter2_medium"
-		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_MAN_jet_fighter_02.dds"
+		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_JAP_jet_fighter_02.dds"
 	}
 	SpriteType = {
 		name = "GFX_SIA_jet_fighter_a_medium"
@@ -12958,11 +12958,11 @@ SpriteTypes = {
 #-> Carrier-based jet fighters <><>
 	SpriteType = {
 		name = "GFX_SIA_jet_cv_fighter1_medium"
-		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_MAN_jet_fighter_01.dds"
+		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_JAP_jet_fighter_01.dds"
 	}
 	SpriteType = {
 		name = "GFX_SIA_jet_cv_fighter2_medium"
-		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_MAN_jet_fighter_02.dds"
+		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_JAP_jet_fighter_02.dds"
 	}
 	SpriteType = {
 		name = "GFX_SIA_jet_cv_fighter_a_medium"
@@ -17501,7 +17501,7 @@ SpriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_PRC_jet_fighter_a_medium"
-		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_PRC_jet_fighter_02.dds"
+		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_SOV_jet_fighter_03.dds"
 	}
 
 #-> Carrier-based jet fighters <><>
@@ -17515,7 +17515,7 @@ SpriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_PRC_jet_cv_fighter_a_medium"
-		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_PRC_jet_fighter_02.dds"
+		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_SOV_jet_fighter_03.dds"
 	}
 
 #-> Jet medium bombers <><>
@@ -17724,7 +17724,7 @@ SpriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_SIK_jet_fighter_a_medium"
-		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_PRC_jet_fighter_02.dds"
+		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_SOV_jet_fighter_03.dds"
 	}
 
 #-> Carrier-based jet fighters <><>
@@ -17738,7 +17738,7 @@ SpriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_SIK_jet_cv_fighter_a_medium"
-		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_PRC_jet_fighter_02.dds"
+		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_SOV_jet_fighter_03.dds"
 	}
 
 #-> Jet medium bombers <><>
@@ -17948,7 +17948,7 @@ SpriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_VIN_jet_fighter_a_medium"
-		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_PRC_jet_fighter_02.dds"
+		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_SOV_jet_fighter_03.dds"
 	}
 
 #-> Carrier-based jet fighters <><>
@@ -17962,7 +17962,7 @@ SpriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_VIN_jet_cv_fighter_a_medium"
-		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_PRC_jet_fighter_02.dds"
+		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_SOV_jet_fighter_03.dds"
 	}
 
 #-> Jet medium bombers <><>
@@ -19082,6 +19082,10 @@ SpriteTypes = {
 		name = "GFX_SOV_jet_fighter2_medium"
 		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_SOV_jet_fighter_02.dds"
 	}
+	SpriteType = {
+		name = "GFX_SOV_jet_fighter_a_medium"
+		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_SOV_jet_fighter_03.dds"
+	}
 
 #-> Carrier-based jet fighters <><>
 	SpriteType = {
@@ -19091,6 +19095,10 @@ SpriteTypes = {
 	SpriteType = {
 		name = "GFX_SOV_jet_cv_fighter2_medium"
 		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_SOV_jet_fighter_02.dds"
+	}
+	SpriteType = {
+		name = "GFX_SOV_jet_cv_fighter3_medium"
+		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_SOV_jet_fighter_03.dds"
 	}
 	
 #-> Jet medium bombers <><>
@@ -19336,6 +19344,10 @@ SpriteTypes = {
 		name = "GFX_MON_jet_fighter2_medium"
 		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_SOV_jet_fighter_02.dds"
 	}
+	SpriteType = {
+		name = "GFX_MON_jet_fighter_a_medium"
+		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_SOV_jet_fighter_03.dds"
+	}
 
 #-> Carrier-based jet fighters <><>
 	SpriteType = {
@@ -19345,6 +19357,10 @@ SpriteTypes = {
 	SpriteType = {
 		name = "GFX_MON_jet_cv_fighter2_medium"
 		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_SOV_jet_fighter_02.dds"
+	}
+	SpriteType = {
+		name = "GFX_MON_jet_cv_fighter3_medium"
+		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_SOV_jet_fighter_03.dds"
 	}
 	
 #-> Jet medium bombers <><>
@@ -19590,6 +19606,10 @@ SpriteTypes = {
 		name = "GFX_TAN_jet_fighter2_medium"
 		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_SOV_jet_fighter_02.dds"
 	}
+	SpriteType = {
+		name = "GFX_TAN_jet_fighter_a_medium"
+		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_SOV_jet_fighter_03.dds"
+	}
 
 #-> Carrier-based jet fighters <><>
 	SpriteType = {
@@ -19599,6 +19619,10 @@ SpriteTypes = {
 	SpriteType = {
 		name = "GFX_TAN_jet_cv_fighter2_medium"
 		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_SOV_jet_fighter_02.dds"
+	}
+	SpriteType = {
+		name = "GFX_TAN_jet_cv_fighter3_medium"
+		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_SOV_jet_fighter_03.dds"
 	}
 	
 #-> Jet medium bombers <><>
@@ -19616,7 +19640,7 @@ SpriteTypes = {
 		name = "GFX_TAN_jet_strategic_bomber1_medium"
 		texturefile = "gfx/interface/technologies/aircraft/jet_heavy_bomber/r56_tech_SOV_jet_heavy_bomber_01.dds"
 	}
-
+	
 
 ###--->  UKR <><> <><> <><>
 #-> Scout planes <><>
@@ -19830,7 +19854,11 @@ SpriteTypes = {
 		name = "GFX_UKR_jet_fighter2_medium"
 		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_SOV_jet_fighter_02.dds"
 	}
-
+	SpriteType = {
+		name = "GFX_UKR_jet_fighter_a_medium"
+		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_SOV_jet_fighter_03.dds"
+	}
+	
 #-> Carrier-based jet fighters <><>
 	SpriteType = {
 		name = "GFX_UKR_jet_cv_fighter1_medium"
@@ -19839,6 +19867,10 @@ SpriteTypes = {
 	SpriteType = {
 		name = "GFX_UKR_jet_cv_fighter2_medium"
 		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_SOV_jet_fighter_02.dds"
+	}
+	SpriteType = {
+		name = "GFX_UKR_jet_cv_fighter3_medium"
+		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_SOV_jet_fighter_03.dds"
 	}
 	
 #-> Jet medium bombers <><>
