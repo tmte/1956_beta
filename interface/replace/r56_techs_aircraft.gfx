@@ -12700,7 +12700,7 @@ SpriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_KOR_jet_fighter_a_medium"
-		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_JAP_jet_fighter_03.dds"
+		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_MAN_jet_fighter_03.dds"
 	}
 
 #-> Carrier-based jet fighters <><>
@@ -12952,7 +12952,7 @@ SpriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_SIA_jet_fighter_a_medium"
-		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_JAP_jet_fighter_03.dds"
+		texturefile = "gfx/interface/technologies/aircraft/jet_fighter/r56_tech_MAN_jet_fighter_03.dds"
 	}
 
 #-> Carrier-based jet fighters <><>
