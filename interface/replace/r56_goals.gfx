@@ -35,6 +35,14 @@ spriteTypes = {
 		texturefile = "gfx/interface/goals/goal_generic_production.dds"
 	}
 	SpriteType = { 
+		name = "GFX_focus_generic_attack_bulgaria"
+		texturefile = "gfx/interface/goals/generic/r56_goal_generic_attack_bulgaria.dds"
+	}	
+	SpriteType = { 
+		name = "GFX_focus_generic_befriend_bulgaria"
+		texturefile = "gfx/interface/goals/generic/r56_goal_generic_befriend_bulgaria.dds"
+	}	
+	SpriteType = { 
 		name = "GFX_focus_generic_attack_greece"
 		texturefile = "gfx/interface/goals/generic/r56_goal_generic_attack_greece.dds"
 	}
@@ -45,6 +53,10 @@ spriteTypes = {
 	SpriteType = { 
 		name = "GFX_focus_generic_attack_republican_spain_focus"
 		texturefile = "gfx/interface/goals/generic/r56_goal_generic_befriend_spain.dds"
+	}	
+	SpriteType = { 
+		name = "GFX_focus_invite_romania"
+		texturefile = "gfx/interface/goals/generic/r56_goal_generic_befriend_romania.dds"
 	}	
 	SpriteType = { 
 		name = "GFX_focus_generic_attack_turkey"
@@ -144,14 +156,6 @@ spriteTypes = {
 	SpriteType = {
 		name = "GFX_goal_generic_armed_protest"
 		texturefile = "gfx/interface/goals/generic/r56_goal_generic_armed_protest.dds"
-	}
-	SpriteType = {
-		name = "GFX_goal_generic_attack_brazil"
-		texturefile = "gfx/interface/goals/generic/r56_goal_generic_attack_brazil.dds"
-	}	
-	SpriteType = {
-		name = "GFX_goal_generic_attack_bulgaria"
-		texturefile = "gfx/interface/goals/generic/r56_goal_generic_attack_bulgaria.dds"
 	}
 	SpriteType = {
 		name = "GFX_goal_generic_communist_government2"
@@ -990,6 +994,10 @@ spriteTypes = {
 		texturefile = "gfx/interface/goals/generic/r56_goal_generic_underground_factories.dds"
 	}
 	SpriteType = {
+		name = "GFX_goal_camelry"
+		texturefile = "gfx/interface/goals/generic/r56_goal_generic_camelry.dds"
+	}	
+	SpriteType = {
 		name = "GFX_goal_generic_attack_albania"
 		texturefile = "gfx/interface/goals/generic/r56_goal_generic_attack_albania.dds"
 	}
@@ -1400,19 +1408,7 @@ spriteTypes = {
 	SpriteType = {
 		name = "GFX_goal_ALG_coa_navy"
 		texturefile = "gfx/interface/goals/alg/r56_goal_ALG_coa_navy.dds"
-	}		
-	SpriteType = {
-		name = "GFX_goal_ALG_coa_air_force"
-		texturefile = "gfx/interface/goals/alg/r56_goal_ALG_coa_air_force.dds"
 	}
-	SpriteType = {
-		name = "GFX_goal_ALG_coa_army"
-		texturefile = "gfx/interface/goals/alg/r56_goal_ALG_coa_army.dds"
-	}
-	SpriteType = {
-		name = "GFX_goal_ALG_coa_navy"
-		texturefile = "gfx/interface/goals/alg/r56_goal_ALG_coa_navy.dds"
-	}	
 
 
 ###------> ARG <><> <><> <><> <><> <><>
@@ -5860,8 +5856,16 @@ spriteType = {
 ###------> TUR <><> <><> <><> <><> <><>
 
 	SpriteType = {
-		name = "GFX_goal_camelry"
-		texturefile = "gfx/interface/goals/generic/r56_goal_generic_camelry.dds"
+		name = "GFX_goal_TUR_coa_air_force"
+		texturefile = "gfx/interface/goals/tur/r56_goal_TUR_coa_air_force.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_TUR_coa_army"
+		texturefile = "gfx/interface/goals/tur/r56_goal_TUR_coa_army.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_TUR_coa_navy"
+		texturefile = "gfx/interface/goals/tur/r56_goal_TUR_coa_navy.dds"
 	}
 	SpriteType = {
 		name = "GFX_goal_TUR_flag"
@@ -5875,7 +5879,6 @@ spriteType = {
 		name = "GFX_goal_TUR_presidental_seal"
 		texturefile = "gfx/interface/goals/tur/r56_goal_TUR_presidental_seal.dds"
 	}
-
 	SpriteType = {
 		name = "GFX_goal_TUR_end_kemalism"
 		texturefile = "gfx/interface/goals/tur/r56_goal_TUR_end_kemalism.dds"

@@ -852,7 +852,7 @@ focus = {
 
 	focus = {
 		id = TUR_prepare_for_the_next_war
-		icon = GFX_goal_TUR_turkish_legacy
+		icon = GFX_goal_TUR_coa_army
 
 		x = 10
 		y = 0
@@ -1212,7 +1212,7 @@ focus = {
 
 	focus = {
 		id = TUR_aviation_effort
-		icon = GFX_goal_generic_air_production
+		icon = GFX_goal_TUR_coa_air_force
 
 		x = 15
 		y = 0
@@ -1493,7 +1493,7 @@ focus = {
 
 	focus = {
 		id = TUR_develop_turkish_ship_building
-		icon = GFX_focus_generic_shipbuilding
+		icon = GFX_goal_TUR_coa_navy
 
 		x = 20
 		y = 0
@@ -1980,7 +1980,7 @@ focus = {
 	}
 	focus = {
 		id = TUR_the_six_arrows
-		icon = GFX_goal_TUR_six_arrows
+		icon = GFX_focus_TUR_ratify_the_six_arrows
 		prerequisite = { focus = TUR_keep_to_kemalism }
 
 		x = 0
@@ -3478,7 +3478,7 @@ focus = {
 
 	focus = {
 		id = TUR_hatay_issue
-		icon = GFX_goal_TUR_hatay_deal
+		icon = GFX_goal_generic_foreign_diplomacy
 		cost = 5
 		x = -1
 		y = 1
@@ -4612,7 +4612,7 @@ focus = {
 	
     focus = {
 		id = TUR_demand_mosul
-		icon = GFX_goal_ENG_attack_iraq
+		icon = GFX_goal_generic_attack_iraq
 		prerequisite = { focus = TUR_restore_middle_east_borders}
 		
 		x = 0
@@ -4700,7 +4700,7 @@ focus = {
 	
 	focus = {
 		id = TUR_annex_persia
-		icon = GFX_goal_ENG_attack_iran
+		icon = GFX_goal_generic_attack_persia
 		prerequisite = { focus = TUR_demand_mosul }
 
 		available = {	
@@ -4842,7 +4842,7 @@ focus = {
 	
 	focus = {
 		id = TUR_claims_on_greece
-		icon = GFX_goal_BUL_annex_gre
+		icon = GFX_goal_generic_attack_greece
 		prerequisite = { focus = TUR_restore_europe_borders }
 		
 		available = {	
@@ -5097,7 +5097,7 @@ focus = {
 	
 	focus = {
 		id = TUR_annex_hungary
-		icon = GFX_goal_demand_sudetenland
+		icon = GFX_goal_generic_attack_hungary
 		prerequisite = { focus = TUR_annex_romania }
 
 		available = {	

@@ -732,7 +732,7 @@ focus_tree = {
 
 	focus = {
 		id = TUR_the_hatay_issue
-		icon = GFX_goal_TUR_hatay_deal
+		icon = GFX_goal_generic_foreign_diplomacy
 		prerequisite = { focus = TUR_assess_our_future }
 		x = 0
 		y = 2
@@ -3320,7 +3320,7 @@ focus_tree = {
 
 	focus = {
 		id = TUR_realize_the_nightmare_of_meiji
-		icon = GFX_focus_jap_pacific_guardian
+		icon = GFX_goal_generic_attack_japan_alt
 		prerequisite = { focus = TUR_the_red_apples_of_sevres }
 		prerequisite = { focus = TUR_reinstate_the_darulfununu_sahane }
 		x = 1
@@ -9819,7 +9819,7 @@ focus_tree = {
 
 	focus = {
 		id = TUR_learning_from_the_great_war
-		icon = GFX_goal_TUR_turkish_legacy
+		icon = GFX_goal_TUR_coa_army
 		x = 30
 		y = 0
 		cost = 5
@@ -9864,7 +9864,7 @@ focus_tree = {
 
 	focus = {
 		id = TUR_hava_okulu
-		icon = GFX_goal_generic_air_fighter
+		icon = GFX_goal_TUR_coa_air_force
 		x = 40
 		y = 0
 		cost = 5
@@ -9887,7 +9887,7 @@ focus_tree = {
 
 	focus = {
 		id = TUR_expand_the_air_bases
-		icon = GFX_goal_generic_air_production
+		icon = GFX_goal_generic_airport
 		prerequisite = { focus = TUR_hava_okulu }
 		x = 0
 		y = 1
@@ -10279,7 +10279,7 @@ focus_tree = {
 
 	focus = {
 		id = TUR_expand_the_golcuk_naval_base
-		icon = GFX_goal_generic_construct_naval_dockyard
+		icon = GFX_goal_TUR_coa_navy
 		prerequisite = { focus = TUR_modernising_the_army }
 		prerequisite = { focus = TUR_expand_the_air_bases }
 		x = 5
