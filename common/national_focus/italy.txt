@@ -4088,7 +4088,7 @@ focus_tree = {
 	}	
 	focus = {
 		id = ITA_operazione_tiberio
-		icon = GFX_goal_BUL_annex_yug
+		icon = GFX_goal_generic_attack_yugoslavia
 		cost = 10
 		prerequisite = {
 			focus = ITA_militarize_the_rome_protocols
@@ -4366,7 +4366,7 @@ focus_tree = {
 	}
 	focus = {
 		id = ITA_operazione_achaicus
-		icon = GFX_goal_BUL_annex_gre
+		icon = GFX_goal_generic_attack_greece
 		cost = 10
 		prerequisite = {
 			focus = ITA_operazione_tiberio
@@ -4437,7 +4437,7 @@ focus_tree = {
 	}
 	focus = {
 		id = ITA_operazione_trajan
-		icon = GFX_goal_BUL_annex_rom
+		icon = GFX_goal_generic_attack_romania
 		cost = 10
 		prerequisite = {
 			focus = ITA_militarize_the_rome_protocols
@@ -5259,7 +5259,7 @@ focus_tree = {
 	}
 	focus = {
 		id = ITA_operazione_vulso
-		icon = GFX_goal_italy_attack_turkey
+		icon = GFX_goal_generic_attack_turkey
 		cost = 10
 		prerequisite = {
 			focus = ITA_operazione_achaicus

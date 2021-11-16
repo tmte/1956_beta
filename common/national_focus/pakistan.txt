@@ -862,7 +862,7 @@ focus_tree = {
     }
     focus = {
         id = PAK_Down_with_Persia
-        icon = GFX_goal_ENG_attack_iran
+        icon = GFX_goal_generic_attack_persia
 		 ai_will_do = { factor = 1 }
 		available = {
 			NOT = { is_in_faction_with = PER }

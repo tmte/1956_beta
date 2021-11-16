@@ -3754,7 +3754,7 @@ focus_tree = {
 	focus = {
 		id = GER_czech_friend_vanilla
 		text = GER_czech_friend
-		icon = GFX_goal_czech_deal
+		icon = GFX_goal_generic_befriend_czech
 		prerequisite = { focus = GER_anschluss_vanilla }
 		mutually_exclusive = { focus = GER_demand_sudetenland_vanilla }
 		available = { 
@@ -5962,7 +5962,7 @@ focus_tree = {
 		text = GER_war_with_greece
 		prerequisite = { focus = GER_fate_of_yugoslavia_vanilla }
 		mutually_exclusive = { focus = GER_second_ljubljana_award_vanilla } 
-		icon = GFX_goal_BUL_annex_gre
+		icon = GFX_goal_generic_attack_greece
 		will_lead_to_war_with = GRE
 		available = {
 			GRE = { 

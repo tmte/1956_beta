@@ -2095,7 +2095,7 @@ focus_tree = {
     }
      focus = {
         id = ALG_field_hospitals
-        icon = GFX_goal_medicine
+        icon = GFX_goal_medicine_crescent
         prerequisite = { focus = ALG_motorized }
         search_filters = {FOCUS_FILTER_RESEARCH}
         x = 37

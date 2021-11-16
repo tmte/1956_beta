@@ -5232,7 +5232,7 @@ focus_tree = {
 	
 	focus = {
 		id = POL_Mend_Ties_With_Czechoslovakia
-		icon = GFX_goal_czech_deal
+		icon = GFX_goal_generic_befriend_czech
 		prerequisite = { focus = POL_The_Endecja_Movement focus = POL_The_National_Radical_Camp }
 		available = {
 			is_subject = no
@@ -5514,7 +5514,7 @@ focus_tree = {
 	
 	focus = {
 		id = POL_Invite_Nationalist_Spain
-		icon = GFX_focus_generic_invite_nat_spain
+		icon = GFX_goal_generic_befriend_spain_nationalist
 		available = {
 			has_government = fascism
 			is_subject = no
@@ -7925,7 +7925,7 @@ focus_tree = {
 	
 	focus = {
 		id = POL_Invite_Sweden
-		icon = GFX_focus_generic_swedish_cooperation
+		icon = GFX_goal_generic_befriend_sweden
 		prerequisite = { focus = POL_Found_Our_Own_Faction }
 		available = {
 			is_faction_leader = yes
@@ -8926,7 +8926,7 @@ focus_tree = {
 	
 	focus = {
 		id = POL_Reaffirm_Ties_With_Romania
-		icon = GFX_focus_generic_reaffirm_romanian_ties
+		icon = GFX_goal_generic_befriend_romania
 		available = {
 			is_subject = no
 			OR = {

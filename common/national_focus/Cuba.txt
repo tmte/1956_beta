@@ -736,7 +736,7 @@ continuous_focus_position = { x = 0 y = 900 }
 	}
 	focus = {
 		id = CUB_join_spain
-		icon = GFX_focus_generic_invite_nat_spain
+		icon = GFX_goal_generic_befriend_spain_nationalist
 		relative_position_id = CUB_secure_power 
 		prerequisite = { focus = CUB_secure_power }
 		x = 7
@@ -1433,7 +1433,7 @@ continuous_focus_position = { x = 0 y = 900 }
 	}
 	focus = {
 		id = CUB_social_welfare_laws
-		icon = GFX_goal_cuba_support_the_confederation_of_cuban_workers
+		icon = GFX_goal_generic_labor_regulation
 		cost = 10
 		prerequisite = {
 			focus = CUB_the_nine_cent_law

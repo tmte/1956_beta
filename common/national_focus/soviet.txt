@@ -5453,7 +5453,7 @@ focus = {
 
 	focus = {
 		id = SOV_claim_bessarabia
-		icon = GFX_goal_strike_romania
+		icon = GFX_goal_generic_attack_romania
 		prerequisite = { focus = SOV_claims_on_poland }
 		x = -2
 		y = 1
@@ -5773,7 +5773,7 @@ focus = {
 
 	focus = {
 		id = SOV_southern_thrust
-		icon = GFX_goal_ENG_attack_iran
+		icon = GFX_goal_generic_attack_persia
 		prerequisite = { focus = SOV_anti_colonialist_rebels }
 		x = -1
 		y = 1
@@ -5943,7 +5943,7 @@ focus = {
 
 	focus = {
 		id = SOV_ultimatum_to_greece
-		icon = GFX_goal_italy_attack_greece
+		icon = GFX_goal_generic_attack_greece
 		prerequisite = { focus = SOV_claim_on_the_straits }
 		available = {
 			is_puppet = no
@@ -9718,7 +9718,7 @@ focus = {
 	}
 	focus = {
 		id = SOV_reclaim_bessarabia
-		icon = GFX_goal_strike_romania
+		icon = GFX_goal_generic_attack_romania
 
 		prerequisite = { focus = SOV_reclaim_polish_overlordship }
 		mutually_exclusive = { focus = SOV_strike_the_eagle }

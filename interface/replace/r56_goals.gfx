@@ -10,7 +10,10 @@ spriteTypes = {
 	}
 
 ###------> Replace vanilla <><> <><> <><> <><> <><>
-
+	SpriteType = { 
+		name = "GFX_focus_chi_mission_to_the_us"
+		texturefile = "gfx/interface/goals/generic/r56_goal_generic_befriend_united_states.dds"
+	}	
 	SpriteType = {
 		name = "GFX_focus_secret_rearmament"
 		texturefile = "gfx/interface/goals/generic/r56_goal_generic_secret_rearmament.dds"
@@ -30,14 +33,50 @@ spriteTypes = {
 	SpriteType = { 
 		name = "GFX_focus_generic_africa_production"
 		texturefile = "gfx/interface/goals/goal_generic_production.dds"
+	}
+	SpriteType = { 
+		name = "GFX_focus_generic_attack_greece"
+		texturefile = "gfx/interface/goals/generic/r56_goal_generic_attack_greece.dds"
+	}
+	SpriteType = { 
+		name = "GFX_focus_generic_befriend_greece"
+		texturefile = "gfx/interface/goals/generic/r56_goal_generic_befriend_greece.dds"
+	}
+	SpriteType = { 
+		name = "GFX_focus_generic_attack_republican_spain_focus"
+		texturefile = "gfx/interface/goals/generic/r56_goal_generic_befriend_spain.dds"
 	}	
+	SpriteType = { 
+		name = "GFX_focus_generic_attack_turkey"
+		texturefile = "gfx/interface/goals/generic/r56_goal_generic_attack_turkey.dds"
+	}
+	SpriteType = { 
+		name = "GFX_focus_generic_befriend_turkey"
+		texturefile = "gfx/interface/goals/generic/r56_goal_generic_befriend_turkey.dds"
+	}	
+	SpriteType = { 
+		name = "GFX_focus_por_latin_american_communism"
+		texturefile = "gfx/interface/goals/chl/r56_goal_CHL_liberate_south_america.dds"
+	}
+	SpriteType = { 
+		name = "GFX_focus_invite_finland"
+		texturefile = "gfx/interface/goals/generic/r56_goal_generic_befriend_finland.dds"
+	}
+	SpriteType = { 
+		name = "GFX_focus_invite_yugoslavia"
+		texturefile = "gfx/interface/goals/generic/r56_goal_generic_befriend_yugoslavia.dds"
+	}
+	SpriteType = { 
+		name = "GFX_focus_intervention_spain_republic"
+		texturefile = "gfx/interface/goals/generic/r56_goal_generic_befriend_spain.dds"
+	}	
+	SpriteType = { 
+		name = "GFX_focus_intervention_spain_nationalists"
+		texturefile = "gfx/interface/goals/generic/r56_goal_generic_befriend_spain_nationalist.dds"
+	}
 
 ###------> Unique generics <><> <><> <><> <><> <><>	
-	
-	SpriteType = {
-		name = "GFX_goal_befriend_burma"
-		texturefile = "gfx/interface/goals/generic/r56_goal_befriend_burma.dds"
-	}
+
 	SpriteType = {
 		name = "GFX_goal_generic_cold_war"
 		texturefile = "gfx/interface/goals/generic/r56_goal_generic_cold_war.dds"
@@ -45,10 +84,6 @@ spriteTypes = {
 	SpriteType = {
 		name = "GFX_goal_european_african_diplomacy"
 		texturefile = "gfx/interface/goals/generic/r56_goal_european_african_diplomacy.dds"
-	}
-	SpriteType = {
-		name = "GFX_goal_befriend_greece"
-		texturefile = "gfx/interface/goals/generic/r56_goal_befriend_greece.dds"
 	}
 	SpriteType = {
 		name = "GFX_goal_generic_road"
@@ -423,6 +458,10 @@ spriteTypes = {
 		texturefile = "gfx/interface/goals/generic/r56_goal_generic_medicine.dds"
 	}
 	SpriteType = {
+		name = "GFX_goal_medicine_crescent"
+		texturefile = "gfx/interface/goals/generic/r56_goal_generic_medicine_crescent.dds"
+	}	
+	SpriteType = {
 		name = "GFX_goal_generic_desert_warfare"
 		texturefile = "gfx/interface/goals/generic/r56_goal_generic_desert_warfare.dds"
 	}
@@ -655,18 +694,6 @@ spriteTypes = {
 		texturefile = "gfx/interface/goals/generic/r56_goal_generic_promote_ruralism.dds"
 	}
 	SpriteType = {
-		name = "GFX_goal_generic_befriend_hungary"
-		texturefile = "gfx/interface/goals/generic/r56_goal_generic_befriend_hungary.dds"
-	}
-	SpriteType = {
-		name = "GFX_goal_generic_befriend_venezuela"
-		texturefile = "gfx/interface/goals/generic/r56_goal_generic_befriend_venezuela.dds"
-	}
-	SpriteType = {
-		name = "GFX_goal_generic_attack_venezuela"
-		texturefile = "gfx/interface/goals/generic/r56_goal_generic_attack_venezuela.dds"
-	}
-	SpriteType = {
 		name = "GFX_goal_generic_monarchic_oppression"
 		texturefile = "gfx/interface/goals/generic/r56_goal_generic_monarchic_oppression.dds"
 	}
@@ -689,10 +716,6 @@ spriteTypes = {
 	SpriteType = {
 		name = "GFX_goal_generic_multipartism"
 		texturefile = "gfx/interface/goals/generic/r56_goal_generic_multipartism.dds"
-	}
-	SpriteType = {
-		name = "GFX_goal_generic_romanian_treaty"
-		texturefile = "gfx/interface/goals/generic/r56_goal_generic_romanian_treaty.dds"
 	}
 	SpriteType = {
 		name = "GFX_goal_generic_seperation"
@@ -911,10 +934,6 @@ spriteTypes = {
 		texturefile = "gfx/interface/goals/generic/r56_goal_generic_martial_law.dds"
 	}
 	SpriteType = {
-		name = "GFX_goal_generic_medicine_crescent"
-		texturefile = "gfx/interface/goals/generic/r56_goal_generic_medicine_crescent.dds"
-	}
-	SpriteType = {
 		name = "GFX_goal_generic_mobile_artillery_light"
 		texturefile = "gfx/interface/goals/generic/r56_goal_generic_mobile_artillery_light.dds"
 	}
@@ -1053,6 +1072,14 @@ spriteTypes = {
 	SpriteType = {
 		name = "GFX_goal_generic_attack_hungary"
 		texturefile = "gfx/interface/goals/generic/r56_goal_generic_attack_hungary.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_generic_attack_iceland"
+		texturefile = "gfx/interface/goals/generic/r56_goal_generic_attack_iceland.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_generic_attack_iraq"
+		texturefile = "gfx/interface/goals/generic/r56_goal_generic_attack_iraq.dds"
 	}	
 	SpriteType = {
 		name = "GFX_goal_generic_attack_italy"
@@ -1097,6 +1124,10 @@ spriteTypes = {
 	SpriteType = {
 		name = "GFX_goal_generic_attack_paraguay"
 		texturefile = "gfx/interface/goals/generic/r56_goal_generic_attack_paraguay.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_generic_attack_persia"
+		texturefile = "gfx/interface/goals/generic/r56_goal_generic_attack_persia.dds"
 	}	
 	SpriteType = {
 		name = "GFX_goal_generic_attack_peru"
@@ -1187,6 +1218,10 @@ spriteTypes = {
 		texturefile = "gfx/interface/goals/generic/r56_goal_generic_befriend_burma.dds"
 	}
 	SpriteType = {
+		name = "GFX_goal_generic_befriend_czech"
+		texturefile = "gfx/interface/goals/generic/r56_goal_generic_befriend_czech.dds"
+	}	
+	SpriteType = {
 		name = "GFX_goal_generic_befriend_denmark"
 		texturefile = "gfx/interface/goals/generic/r56_goal_generic_befriend_denmark.dds"
 	}	
@@ -1218,6 +1253,10 @@ spriteTypes = {
 		name = "GFX_goal_generic_befriend_indochina_communist"
 		texturefile = "gfx/interface/goals/generic/r56_goal_generic_befriend_indochina_communist.dds"
 	}
+	SpriteType = {
+		name = "GFX_goal_generic_befriend_iceland"
+		texturefile = "gfx/interface/goals/generic/r56_goal_generic_befriend_iceland.dds"
+	}	
 	SpriteType = {
 		name = "GFX_goal_generic_befriend_iraq"
 		texturefile = "gfx/interface/goals/generic/r56_goal_generic_befriend_iraq.dds"
@@ -1278,6 +1317,10 @@ spriteTypes = {
 		name = "GFX_goal_generic_befriend_spain_nationalist"
 		texturefile = "gfx/interface/goals/generic/r56_goal_generic_befriend_spain_nationalist.dds"
 	}
+	SpriteType = {
+		name = "GFX_goal_generic_befriend_swiss"
+		texturefile = "gfx/interface/goals/generic/r56_goal_generic_befriend_swiss.dds"
+	}	
 	SpriteType = {
 		name = "GFX_goal_generic_befriend_sweden"
 		texturefile = "gfx/interface/goals/generic/r56_goal_generic_befriend_sweden.dds"
@@ -1493,10 +1536,6 @@ spriteTypes = {
 		texturefile = "gfx/interface/goals/aus/r56_goal_AUS_recreate_the_kuk_kriegsmarine.dds"
 	}
 	SpriteType = {
-		name = "GFX_goal_romanian_obstacle"
-		texturefile = "gfx/interface/goals/aus/r56_goal_AUS_romanian_obstacle.dds"
-	}
-	SpriteType = {
 		name = "GFX_goal_repeal_political"
 		texturefile = "gfx/interface/goals/aus/r56_goal_AUS_repeal_political.dds"
 	}
@@ -1547,10 +1586,6 @@ spriteTypes = {
 	SpriteType = {
 		name = "GFX_closer_ties_to_yugoslavia"
 		texturefile = "gfx/interface/goals/aus/r56_goal_AUS_closer_ties_to_yugoslavia.dds"
-	}
-	SpriteType = {
-		name = "GFX_invite_yugoslavia_to_faction"
-		texturefile = "gfx/interface/goals/aus/r56_goal_AUS_invite_yugoslavia_to_faction.dds"
 	}
 	SpriteType = {
 		name = "GFX_war_for_the_balkans"
@@ -2085,28 +2120,8 @@ spriteTypes = {
 		texturefile = "gfx/interface/goals/bul/r56_focus_BUL_demand_vardar.dds"
 	}
 	SpriteType = {
-		name = "GFX_goal_BUL_annex_alb"
-		texturefile = "gfx/interface/goals/bul/r56_goal_BUL_annex_alb.dds"
-	}
-	SpriteType = {
-		name = "GFX_goal_BUL_annex_yug"
-		texturefile = "gfx/interface/goals/bul/r56_goal_BUL_annex_yug.dds"
-	}
-	SpriteType = {
-		name = "GFX_goal_BUL_annex_gre"
-		texturefile = "gfx/interface/goals/bul/r56_goal_BUL_annex_gre.dds"
-	}
-	SpriteType = {
-		name = "GFX_goal_BUL_annex_rom"
-		texturefile = "gfx/interface/goals/bul/r56_goal_BUL_annex_rom.dds"
-	}
-	SpriteType = {
 		name = "GFX_goal_BUL_divide_yugoslavia"
 		texturefile = "gfx/interface/goals/bul/r56_goal_BUL_divide_yugoslavia.dds"
-	}
-	SpriteType = {
-		name = "GFX_goal_befriend_macedonia"
-		texturefile = "gfx/interface/goals/bul/r56_goal_befriend_macedonia.dds"
 	}
 	SpriteType = {
 		name = "GFX_goal_BUL_coa_air_force"
@@ -2583,10 +2598,6 @@ spriteTypes = {
 		texturefile = "gfx/interface/goals/cro/r56_goal_CRO_italo_croat_legion.dds"
 	}
 	SpriteType = {
-		name = "GFX_focus_generic_communist_yugoslavia_deal"
-		texturefile = "gfx/interface/goals/cro/r56_goal_CRO_communist_yugoslavia_deal.dds"
-	}
-	SpriteType = {
 		name = "GFX_goal_flag_croatia"
 		texturefile = "gfx/interface/goals/cro/r56_goal_CRO_flag_croatia.dds"
 	}
@@ -2620,14 +2631,6 @@ spriteTypes = {
 	SpriteType = {
 		name = "GFX_goal_CZE_defense"
 		texturefile = "gfx/interface/goals/cze/r56_goal_CZE_defense.dds"
-	}
-	SpriteType = {
-		name = "GFX_goal_cze_invite_yugoslavia"
-		texturefile = "gfx/interface/goals/cze/r56_goal_cze_invite_yugoslavia.dds"
-	}
-	SpriteType = {
-		name = "GFX_goal_cze_invite_romania"
-		texturefile = "gfx/interface/goals/cze/r56_goal_cze_invite_romania.dds"
 	}
 	SpriteType = {
 		name = "GFX_goal_cze_petition_league_of_nations"
@@ -2858,10 +2861,6 @@ spriteTypes = {
 		texturefile = "gfx/interface/goals/eng/r56_goal_ENG_collaboration_with_greece.dds"
 	}
 	SpriteType = {
-		name = "GFX_goal_ENG_collaboration_with_turkey"
-		texturefile = "gfx/interface/goals/eng/r56_goal_ENG_collaboration_with_turkey.dds"
-	}
-	SpriteType = {
 		name = "GFX_goal_ENG_collaboration_with_spain"
 		texturefile = "gfx/interface/goals/eng/r56_goal_ENG_collaboration_with_spain.dds"
 	}
@@ -2876,14 +2875,6 @@ spriteTypes = {
 	SpriteType = {
 		name = "GFX_goal_ENG_attack_belgium"
 		texturefile = "gfx/interface/goals/eng/r56_goal_ENG_attack_belgium.dds"
-	}
-	SpriteType = {
-		name = "GFX_goal_ENG_attack_iran"
-		texturefile = "gfx/interface/goals/eng/r56_goal_ENG_attack_iran.dds"
-	}
-	SpriteType = {
-		name = "GFX_goal_ENG_attack_iraq"
-		texturefile = "gfx/interface/goals/eng/r56_goal_ENG_attack_iraq.dds"
 	}
 	SpriteType = {
 		name = "GFX_goal_ENG_issue_gasmasks"
@@ -3013,30 +3004,6 @@ spriteTypes = {
 		texturefile = "gfx/interface/goals/fin/r56_goal_FIN_lebensraum.dds"
 	}
 	spriteType = {
-		name = "GFX_goal_annexdenmark"
-		texturefile = "gfx/interface/goals/fin/r56_goal_FIN_annexdenmark.dds"
-	}
-	spriteType = {
-		name = "GFX_goal_annexsweden"
-		texturefile = "gfx/interface/goals/fin/r56_goal_FIN_annexsweden.dds"
-	}
-	spriteType = {
-		name = "GFX_goal_annexnorway"
-		texturefile = "gfx/interface/goals/fin/r56_goal_FIN_annexnorway.dds"
-	}
-	spriteType = {
-		name = "GFX_goal_invitesweden"
-		texturefile = "gfx/interface/goals/fin/r56_goal_FIN_invitesweden.dds"
-	}
-	spriteType = {
-		name = "GFX_goal_invitenorway"
-		texturefile = "gfx/interface/goals/fin/r56_goal_FIN_invitenorway.dds"
-	}
-	spriteType = {
-		name = "GFX_goal_invitedenmark"
-		texturefile = "gfx/interface/goals/fin/r56_goal_FIN_invitedenmark.dds"
-	}
-	spriteType = {
 		name = "GFX_goal_scandinavia"
 		texturefile = "gfx/interface/goals/fin/r56_goal_FIN_scandinavia.dds"
 	}
@@ -3113,18 +3080,6 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_SPA_alliance"
 		texturefile = "gfx/interface/goals/fra/r56_goal_FRA_SPA_alliance.dds"
-	}
-	SpriteType = {
-		name = "GFX_goal_befriend_communist_ALB"
-		texturefile = "gfx/interface/goals/generic/r56_goal_generic_befriend_communist_ALB.dds"
-	}
-	SpriteType = {
-		name = "GFX_goal_befriend_communist_BUL"
-		texturefile = "gfx/interface/goals/generic/r56_goal_generic_befriend_communist_BUL.dds"
-	}
-	SpriteType = {
-		name = "GFX_goal_befriend_communist_YUG"
-		texturefile = "gfx/interface/goals/generic/r56_goal_generic_befriend_communist_YUG.dds"
 	}
 	spriteType = {
 		name = "GFX_mobilisation"
@@ -3348,10 +3303,6 @@ spriteTypes = {
 
 ###------> GER <><> <><> <><> <><> <><>
 	SpriteType = {
-		name = "GFX_Goal_alliance_sweden"
-		texturefile = "gfx/interface/goals/ger/r56_goal_GER_alliance_sweden.dds"
-	}
-	SpriteType = {
 		name = "GFX_goal_ger_Organisation_Todt"
 		texturefile = "gfx/interface/goals/ger/r56_goal_ger_Organisation_Todt.dds"
 	}
@@ -3368,10 +3319,6 @@ spriteTypes = {
 		texturefile = "gfx/interface/goals/ger/r56_goal_ger_nva.dds"
 	}
 	SpriteType = {
-		name = "GFX_goal_ger_influence_brazil"
-		texturefile = "gfx/interface/goals/ger/r56_goal_ger_influence_brazil.dds"
-	}
-	SpriteType = {
 		name = "GFX_goal_ger_fate_of_czech"
 		texturefile = "gfx/interface/goals/ger/r56_goal_ger_fate_of_czech.dds"
 	}
@@ -3386,10 +3333,6 @@ spriteTypes = {
 	SpriteType = {
 		name = "GFX_goal_GER_anschluss"
 		texturefile = "gfx/interface/goals/ger/r56_goal_GER_anschluss.dds"
-	}
-	SpriteType = {
-		name = "GFX_goal_GER_befriend_iraq"
-		texturefile = "gfx/interface/goals/ger/r56_goal_GER_befriend_iraq.dds"
 	}
 	SpriteType = {
 		name = "GFX_goal_GER_war_with_poland"
@@ -3435,10 +3378,6 @@ spriteTypes = {
 		name = "GFX_goal_ger_not_nazi_africa"
 		texturefile = "gfx/interface/goals/ger/r56_goal_ger_not_nazi_africa.dds"
 	}
-	SpriteType = {
-		name = "GFX_Goal_alliance_finland"
-		texturefile = "gfx/interface/goals/ger/r56_goal_GER_alliance_finland.dds"
-	}
 	spriteType = {
 		name = "GFX_goal_GER_european_reich"
 		texturefile = "gfx/interface/goals/ger/r56_goal_GER_european_reich.dds"
@@ -3468,21 +3407,10 @@ spriteTypes = {
 		texturefile = "gfx/interface/goals/ger/r56_goal_GER_munich_agreement.dds"
 	}
 	SpriteType = {
-		name = "GFX_goal_czech_deal"
-		texturefile = "gfx/interface/goals/ger/r56_goal_GER_czech_deal.dds"
-	}
-	SpriteType = {
 		name = "GFX_goal_operation_sealion"
 		texturefile = "gfx/interface/goals/ger/r56_goal_GER_operation_sealion.dds"
 	}
-	SpriteType = {
-		name = "GFX_goal_annexiceland"
-		texturefile = "gfx/interface/goals/ger/r56_goal_GER_annexiceland.dds"
-	}
-	SpriteType = {
-		name = "GFX_goal_annexfinland"
-		texturefile = "gfx/interface/goals/ger/r56_goal_GER_annexfinland.dds"
-	}
+	
 	SpriteType = {
 		name = "GFX_goal_GER_danzig_or_war"
 		texturefile = "gfx/interface/goals/ger/r56_goal_GER_danzig_or_war.dds"
@@ -3834,10 +3762,6 @@ spriteTypes = {
 		texturefile = "gfx/interface/goals/hun/r56_goal_HUN_galicia.dds"
 	}
 	SpriteType = {
-		name = "GFX_goal_strike_romania"
-		texturefile = "gfx/interface/goals/hun/r56_goal_HUN_strike_romania.dds"
-	}
-	SpriteType = {
 		name = "GFX_goal_flag_hungary"
 		texturefile = "gfx/interface/goals/hun/r56_goal_HUN_flag_hungary.dds"
 	}
@@ -3860,37 +3784,31 @@ spriteTypes = {
 	SpriteType = {
 		name = "GFX_goal_HUN_tanks"
 		texturefile = "gfx/interface/goals/hun/r56_goal_HUN_tanks.dds"
-	}
-		SpriteType = {
-	name = "GFX_goal_hungary_alliance_with_romania"
-	texturefile = "gfx/interface/goals/hun/goal_hungary_alliance_with_romania.dds"
-	}
-
+	}	
 	SpriteType = {
-	name = "GFX_goal_hungary_elect_franz"
-	texturefile = "gfx/interface/goals/hun/goal_hungary_elect_franz.dds"
+		name = "GFX_goal_hungary_alliance_with_romania"
+		texturefile = "gfx/interface/goals/hun/goal_hungary_alliance_with_romania.dds"
 	}
-
 	SpriteType = {
-	name = "GFX_goal_HUN_expand_the_levente"
-	texturefile = "gfx/interface/goals/hun/r56_goal_HUN_expand_the_levente.dds"
+		name = "GFX_goal_hungary_elect_franz"
+		texturefile = "gfx/interface/goals/hun/goal_hungary_elect_franz.dds"
 	}
-
 	SpriteType = {
-	name = "GFX_goal_HUN_form_the_mdp"
-	texturefile = "gfx/interface/goals/hun/r56_goal_HUN_form_the_mdp.dds"
+		name = "GFX_goal_HUN_expand_the_levente"
+		texturefile = "gfx/interface/goals/hun/r56_goal_HUN_expand_the_levente.dds"
 	}
-
 	SpriteType = {
-	name = "GFX_goal_HUN_communist_party"
-	texturefile = "gfx/interface/goals/hun/r56_goal_HUN_communist_party.dds"
+		name = "GFX_goal_HUN_form_the_mdp"
+		texturefile = "gfx/interface/goals/hun/r56_goal_HUN_form_the_mdp.dds"
 	}
-
 	SpriteType = {
-	name = "GFX_goal_HUN_trade_deal_with_germany"
-	texturefile = "gfx/interface/goals/hun/r56_goal_HUN_trade_deal_with_germany.dds"
+		name = "GFX_goal_HUN_communist_party"
+		texturefile = "gfx/interface/goals/hun/r56_goal_HUN_communist_party.dds"
 	}
-
+	SpriteType = {
+		name = "GFX_goal_HUN_trade_deal_with_germany"
+		texturefile = "gfx/interface/goals/hun/r56_goal_HUN_trade_deal_with_germany.dds"
+	}
 	SpriteType = {
 		name = "GFX_goal_HUN_take_austria_by_force"
 		texturefile = "gfx/interface/goals/hun/r56_goal_HUN_take_austria_by_force.dds"
@@ -3898,91 +3816,6 @@ spriteTypes = {
 	SpriteType = {
 		name = "GFX_goal_HUN_assault_gun"
 		texturefile = "gfx/interface/goals/hun/r56_goal_HUN_assault_gun.dds"
-	}
-
-
-	SpriteType = {
-	name = "GFX_goal_hungary_elect_otto"
-	texturefile = "gfx/interface/goals/hun/goal_hungary_elect_otto.dds"
-	}
-
-	SpriteType = {
-	name = "GFX_goal_hungary_elect_wilhelm"
-	texturefile = "gfx/interface/goals/hun/goal_hungary_elect_wilhelm.dds"
-	}
-
-	SpriteType = {
-	name = "GFX_goal_hungary_hungarian_peoples_army"
-	texturefile = "gfx/interface/goals/hun/goal_hungary_hungarian_peoples_army.dds"
-	}
-
-	SpriteType = {
-	name = "GFX_goal_hungary_join_the_allies"
-	texturefile = "gfx/interface/goals/hun/goal_hungary_join_the_allies.dds"
-	}
-
-	SpriteType = {
-	name = "GFX_goal_hungary_reclaim_bukovinia"
-	texturefile = "gfx/interface/goals/hun/goal_hungary_reclaim_bukovinia.dds"
-	}
-
-	SpriteType = {
-	name = "GFX_goal_hungary_reclaim_the_empire"
-	texturefile = "gfx/interface/goals/hun/goal_hungary_reclaim_the_empire.dds"
-	}
-
-	SpriteType = {
-	name = "GFX_goal_hungary_reclaim_venetia"
-	texturefile = "gfx/interface/goals/hun/goal_hungary_reclaim_venetia.dds"
-	}
-
-	SpriteType = {
-	name = "GFX_goal_hungary_responsible_government"
-	texturefile = "gfx/interface/goals/hun/goal_hungary_responsible_government.dds"
-	}
-	SpriteType = {
-	name = "GFX_goal_hungary_alliance_with_romania"
-	texturefile = "gfx/interface/goals/hun/goal_hungary_alliance_with_romania.dds"
-	}
-
-	SpriteType = {
-	name = "GFX_goal_hungary_elect_franz"
-	texturefile = "gfx/interface/goals/hun/goal_hungary_elect_franz.dds"
-	}
-
-	SpriteType = {
-	name = "GFX_goal_hungary_elect_otto"
-	texturefile = "gfx/interface/goals/hun/goal_hungary_elect_otto.dds"
-	}
-
-	SpriteType = {
-	name = "GFX_goal_hungary_elect_wilhelm"
-	texturefile = "gfx/interface/goals/hun/goal_hungary_elect_wilhelm.dds"
-	}
-
-	SpriteType = {
-	name = "GFX_goal_hungary_hungarian_peoples_army"
-	texturefile = "gfx/interface/goals/hun/goal_hungary_hungarian_peoples_army.dds"
-	}
-
-	SpriteType = {
-	name = "GFX_goal_hungary_join_the_allies"
-	texturefile = "gfx/interface/goals/hun/goal_hungary_join_the_allies.dds"
-	}
-
-	SpriteType = {
-	name = "GFX_goal_hungary_reclaim_bukovinia"
-	texturefile = "gfx/interface/goals/hun/goal_hungary_reclaim_bukovinia.dds"
-	}
-
-	SpriteType = {
-	name = "GFX_goal_hungary_reclaim_the_empire"
-	texturefile = "gfx/interface/goals/hun/goal_hungary_reclaim_the_empire.dds"
-	}
-
-	SpriteType = {
-	name = "GFX_goal_hungary_reclaim_venetia"
-	texturefile = "gfx/interface/goals/hun/goal_hungary_reclaim_venetia.dds"
 	}
 
 
@@ -4057,8 +3890,8 @@ spriteTypes = {
 ###------> ITA <><> <><> <><> <><> <><>
 
 	SpriteType = {
-	name = "GFX_goal_further_military_cooperation_with_germany"
-	texturefile = "gfx/interface/goals/ita/goal_further_military_cooperation_with_germany.dds"
+		name = "GFX_goal_further_military_cooperation_with_germany"
+		texturefile = "gfx/interface/goals/ita/goal_further_military_cooperation_with_germany.dds"
 	}
 
 	SpriteType = {
@@ -4119,16 +3952,6 @@ spriteTypes = {
 	SpriteType = {
 	name = "GFX_goal_italy_attack_greece"
 	texturefile = "gfx/interface/goals/ita/goal_italy_attack_greece.dds"
-	}
-
-	SpriteType = {
-	name = "GFX_goal_italy_attack_turkey"
-	texturefile = "gfx/interface/goals/ita/goal_italy_attack_turkey.dds"
-	}
-
-	SpriteType = {
-	name = "GFX_goal_italy_attack_yugoslavia"
-	texturefile = "gfx/interface/goals/ita/goal_italy_attack_yugoslavia.dds"
 	}
 
 	SpriteType = {
@@ -4868,10 +4691,6 @@ SpriteType = {
 
 ###------> PER <><> <><> <><> <><> <><>
 	SpriteType = {
-		name = "GFX_goal_PER_agreement"
-		texturefile = "gfx/interface/goals/per/r56_goal_PER_agreement.dds"
-	}
-	SpriteType = {
 		name = "GFX_goal_PER_appoint_zahedi"
 		texturefile = "gfx/interface/goals/per/r56_goal_PER_appoint_zahedi.dds"
 	}
@@ -4992,10 +4811,6 @@ SpriteType = {
 		texturefile = "gfx/interface/goals/generic/r56_goal_generic_national_defense_fund.dds"
 	}
 	SpriteType = {
-		name = "GFX_focus_generic_reaffirm_romanian_ties"
-		texturefile = "gfx/interface/goals/pol/r56_focus_generic_reaffirm_romanian_ties.dds"
-	}
-	SpriteType = {
 		name = "GFX_focus_generic_seek_accomodation_with_germany"
 		texturefile = "gfx/interface/goals/pol/r56_focus_generic_seek_accomodation_with_germany.dds"
 	}
@@ -5020,10 +4835,6 @@ SpriteType = {
 		texturefile = "gfx/interface/goals/pol/r56_goal_prometheism.dds"
 	}
 	SpriteType = {
-		name = "GFX_focus_generic_swedish_cooperation"
-		texturefile = "gfx/interface/goals/pol/r56_focus_generic_swedish_cooperation.dds"
-	}
-	SpriteType = {
 		name = "GFX_focus_generic_FB"
 		texturefile = "gfx/interface/goals/pol/r56_focus_generic_FB.dds"
 	}
@@ -5042,10 +4853,6 @@ SpriteType = {
 	SpriteType = {
 		name = "GFX_focus_generic_army_modernizations"
 		texturefile = "gfx/interface/goals/pol/r56_focus_generic_army_modernizations.dds"
-	}
-	SpriteType = {
-		name = "GFX_focus_generic_invite_nat_spain"
-		texturefile = "gfx/interface/goals/pol/r56_focus_generic_invite_nat_spain.dds"
 	}
 	SpriteType = {
 		name = "GFX_goal_generic_equalize_AB"
@@ -5246,10 +5053,6 @@ SpriteType = {
 	SpriteType = {
 		name = "GFX_goal_ROM_split_czechoslovakia"
 		texturefile = "gfx/interface/goals/rom/r56_goal_ROM_split_czechoslovakia.dds"
-	}
-	SpriteType = {
-		name = "GFX_goal_ROM_renew_polish_romanian_alliance"
-		texturefile = "gfx/interface/goals/rom/r56_goal_ROM_renew_polish_romanian_alliance.dds"
 	}
 	SpriteType = {
 		name = "GFX_goal_ROM_militarize_the_sentinels"
@@ -5964,10 +5767,6 @@ spriteType = {
 		texturefile = "gfx/interface/goals/swe/r56_goal_SWE_the_king_in_council.dds"
 	}
 	SpriteType = {
-		name = "GFX_goal_SWE_annex_norway"
-		texturefile = "gfx/interface/goals/swe/r56_goal_SWE_annex_norway.dds"
-	}
-	SpriteType = {
 		name = "GFX_goal_SWE_coa_army"
 		texturefile = "gfx/interface/goals/swe/r56_goal_SWE_coa_army.dds"
 	}
@@ -5992,10 +5791,6 @@ spriteType = {
 	SpriteType = {
 		name = "GFX_goal_SWI_reduit_national"
 		texturefile = "gfx/interface/goals/swi/r56_goal_SWI_reduit_national.dds"
-	}
-	SpriteType = {
-		name = "GFX_goal_SWI_red_cross"
-		texturefile = "gfx/interface/goals/swi/r56_goal_SWI_red_cross.dds"
 	}
 	SpriteType = {
 		name = "GFX_goal_swi_irredentism"
@@ -6071,10 +5866,6 @@ spriteType = {
 	SpriteType = {
 		name = "GFX_goal_TUR_flag"
 		texturefile = "gfx/interface/goals/tur/r56_goal_TUR_flag.dds"
-	}
-	SpriteType = {
-		name = "GFX_goal_TUR_agreement"
-		texturefile = "gfx/interface/goals/tur/r56_goal_TUR_agreement.dds"
 	}
 	SpriteType = {
 		name = "GFX_goal_TUR_six_arrows"
@@ -6541,11 +6332,6 @@ spriteType = {
 	}
 
 	SpriteType = {
-	name = "GFX_goal_cuba_support_the_confederation_of_cuban_workers"
-	texturefile = "gfx/interface/goals/cub/goal_cuba_support_the_confederation_of_cuban_workers.dds"
-	}
-
-	SpriteType = {
 	name = "GFX_goal_cuba_trial_of_the_officers"
 	texturefile = "gfx/interface/goals/cub/goal_cuba_trial_of_the_officers.dds"
 	}
@@ -6675,11 +6461,6 @@ spriteType = {
 	SpriteType = {
 	name = "GFX_goal_spr_appoin_a_new_advisor"
 	texturefile = "gfx/interface/goals/spr/r56_goal_spr_appoin_a_new_advisor.dds"
-	}
-
-	SpriteType = {
-	name = "GFX_goal_spr_befriend_portugal"
-	texturefile = "gfx/interface/goals/spr/r56_goal_spr_befriend_portugal.dds"
 	}
 
 	SpriteType = {

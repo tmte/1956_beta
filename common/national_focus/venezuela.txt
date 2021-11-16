@@ -4548,7 +4548,7 @@ focus_tree = {
     }
     focus = {
         id = VEN_support_brazillian_revolution
-        icon = GFX_goal_ger_influence_brazil
+        icon = GFX_goal_generic_befriend_brazil
         relative_position_id = VEN_venezuelan_way_of_communism
         x = -1
         y = 3
@@ -5850,7 +5850,7 @@ focus_tree = {
     }
     focus = {
         id = VEN_purchase_czech_equipment
-        icon = GFX_goal_czech_deal
+        icon = GFX_goal_generic_befriend_czech
         x = -30
         y = 4
         cost = 10

@@ -1148,7 +1148,7 @@ focus_tree = {
 	
 	focus = {
 		id = YUG_concessions_for_macedonians
-		icon = GFX_goal_befriend_macedonia
+		icon = GFX_goal_generic_befriend_macedonia
 		prerequisite = { focus = YUG_slovenia_for_support focus = YUG_ban_slovene_nationalist_parties }
 		mutually_exclusive = { focus = YUG_surrender_macedonia }
 		x = 0
@@ -1481,7 +1481,7 @@ focus_tree = {
 
 	focus = {
 		id = YUG_claim_macedonia
-		icon = GFX_goal_BUL_annex_gre
+		icon = GFX_goal_generic_attack_greece
 		prerequisite = { focus = YUG_zara_for_axis focus = YUG_surrender_italian_claims }
 		x = -2
 		y = 1
@@ -2675,7 +2675,7 @@ focus_tree = {
 
 	focus = {
 		id = YUG_yugoslavian_path_to_communism
-		icon = GFX_goal_befriend_communist_YUG
+		icon = GFX_goal_generic_befriend_yugoslavia_communist
 		prerequisite = { focus = YUG_abolish_the_monarchy }
 		mutually_exclusive = { focus = YUG_soviet_cooperation focus = YUG_yugoslavian_international_communism }
 		x = 5
@@ -2992,7 +2992,7 @@ focus_tree = {
 	}
 	focus = {
 		id = YUG_invite_bulgaria
-		icon = GFX_goal_befriend_communist_BUL
+		icon = GFX_goal_generic_befriend_bulgaria_communist
 		prerequisite = { focus = YUG_pan_slavic_workers_congress }
 		x = -1
 		y = 1
@@ -3154,7 +3154,7 @@ focus_tree = {
 
 	focus = {
 		id = YUG_invite_albania
-		icon = GFX_goal_befriend_communist_ALB
+		icon = GFX_goal_generic_befriend_albania_communist
 		prerequisite = { focus = YUG_pan_slavic_workers_congress }
 		x = 1
 		y = 1
@@ -4071,7 +4071,7 @@ focus_tree = {
 
 	focus = {
 		id = YUG_invite_turkey
-		icon = GFX_goal_ENG_collaboration_with_turkey
+		icon = GFX_goal_generic_befriend_turkey
 		prerequisite = { focus = YUG_invite_greece }
 		prerequisite = { focus = YUG_invite_hungary }
 		prerequisite = { focus = YUG_invite_romania }

@@ -1856,7 +1856,7 @@ continuous_focus_position = { x = 0 y = 900 }
 	}
 	focus = {
 		id = SOV_civil_war_reclaim_bessarabia
-		icon = GFX_goal_strike_romania
+		icon = GFX_goal_generic_attack_romania
 
 		prerequisite = { focus = SOV_civil_war_reclaim_polish_overlordship }
 		x = 0

@@ -1154,7 +1154,7 @@ focus_tree = {
 	}
 	focus = {
 		id = GER_autobahn
-		icon = GFX_goal_ger_Organisation_Todt
+		icon = GFX_goal_generic_road
 		cost = 5.00
 		prerequisite = {
 			focus = GER_appoint_economic_positions
@@ -1209,7 +1209,7 @@ focus_tree = {
 	}
 	focus = {
 		id = GER_privatize_reichsbahn
-		icon = GFX_goal_generic_road
+		icon = GFX_goal_generic_construct_infrastructure
 		cost = 10.00
 		prerequisite = {
 			focus = GER_autobahn
@@ -1888,7 +1888,7 @@ focus_tree = {
 	}
 	focus = {
 		id = GER_core_lorraine
-		icon = GFX_goal_GER_claim_alsace_lorraine
+		icon = GFX_goal_generic_more_territorial_claims
 		cost = 5.00
 		available = {
 			OR = {
@@ -2200,7 +2200,7 @@ focus_tree = {
 	}
 	focus = {
 		id = GER_influence_brazil
-		icon = GFX_goal_ger_influence_brazil
+		icon = GFX_goal_generic_befriend_brazil
 		cost = 10.00
 		prerequisite = {
 			focus = GER_around_maginot
@@ -2974,7 +2974,7 @@ focus_tree = {
 	focus = {
 		id = GER_denmark_friend_2
 		text = GER_denmark_friend
-		icon = GFX_goal_invitedenmark
+		icon = GFX_goal_generic_befriend_denmark
 		prerequisite = { focus = GER_anschluss }
 		mutually_exclusive = { focus = GER_weserubung }
 
@@ -3186,7 +3186,7 @@ focus_tree = {
 	focus = {
 		id = GER_sweden_friend_2
 		text = GER_sweden_friend
-		icon = GFX_Goal_alliance_sweden
+		icon = GFX_goal_generic_befriend_sweden
 		prerequisite = { focus = GER_denmark_friend_2 }
 		available = {
 			has_government = fascism
@@ -3248,7 +3248,7 @@ focus_tree = {
 	}	
 	focus = {
 		id = GER_sweden_friend
-		icon = GFX_Goal_alliance_sweden
+		icon = GFX_goal_generic_befriend_sweden
 		cost = 5
 		prerequisite = {
 			focus = GER_weserubung
@@ -3345,7 +3345,7 @@ focus_tree = {
 	}
 	focus = {
 		id = GER_operation_ikarus
-		icon = GFX_goal_annexiceland
+		icon = GFX_goal_generic_attack_iceland
 		cost = 2.00
 		prerequisite = {
 			focus = GER_weserubung
@@ -3412,7 +3412,7 @@ focus_tree = {
 	}
 	focus = {
 		id = GER_sweden_war
-		icon = GFX_goal_annexsweden
+		icon = GFX_goal_generic_attack_sweden
 		cost = 10.00
 		prerequisite = {
 			focus = GER_weserubung
@@ -3457,7 +3457,7 @@ focus_tree = {
 	}
 	focus = {
 		id = GER_finland_war
-		icon = GFX_goal_annexfinland
+		icon = GFX_goal_generic_attack_finland
 		cost = 10.00
 		prerequisite = {
 			focus = GER_sweden_friend
@@ -4158,7 +4158,7 @@ focus_tree = {
 	}
 	focus = {
 		id = GER_war_with_greece
-		icon = GFX_goal_BUL_annex_gre
+		icon = GFX_goal_generic_attack_greece
 		cost = 10.00
 		prerequisite = {
 			focus = GER_second_ljubljana_award
@@ -4200,7 +4200,7 @@ focus_tree = {
 	}
 	focus = {
 		id = GER_czech_friend
-		icon = GFX_goal_czech_deal
+		icon = GFX_goal_generic_befriend_czech
 		cost = 10.00
 		prerequisite = {
 			focus = GER_anschluss
@@ -4514,7 +4514,7 @@ focus_tree = {
 	}
 	focus = {
 		id = GER_prepare_italian_invasion
-		icon = GFX_goal_generic_construct_military
+		icon = GFX_goal_generic_attack_italy
 		cost = 5.00
 		prerequisite = {
 			focus = GER_anschluss
@@ -4715,7 +4715,7 @@ focus_tree = {
 	}
 	focus = {
 		id = GER_alliance_with_italy
-		icon = GFX_goal_italian_cooperation
+		icon = GFX_goal_further_military_cooperation_with_germany
 		cost = 5.00
 		prerequisite = {
 			focus = GER_anschluss
@@ -5586,7 +5586,7 @@ focus_tree = {
 	}
 	focus = {
 		id = GER_romania_war
-		icon = GFX_goal_strike_romania
+		icon = GFX_goal_generic_attack_romania
 		cost = 10.00
 		prerequisite = {
 			focus = GER_danzig_or_war
@@ -5633,7 +5633,7 @@ focus_tree = {
 	}
 	focus = {
 		id = GER_turkey_friend
-		icon = GFX_goal_ENG_collaboration_with_turkey
+		icon = GFX_goal_generic_befriend_turkey
 		cost = 10.00
 		
 		prerequisite = {
@@ -5730,7 +5730,7 @@ focus_tree = {
 	}
 	focus = {
 		id = GER_turkey_war
-		icon = GFX_goal_italy_attack_turkey
+		icon = GFX_goal_generic_attack_turkey
 		cost = 10.00
 		prerequisite = {
 			focus = GER_romania_friend
@@ -5785,7 +5785,7 @@ focus_tree = {
 	}
 	focus = {
 		id = GER_iraq_friend
-		icon = GFX_goal_GER_befriend_iraq
+		icon = GFX_goal_generic_befriend_iraq
 		cost = 10.00
 		prerequisite = {
 			focus = GER_turkey_friend
@@ -5869,7 +5869,7 @@ focus_tree = {
 	}
 	focus = {
 		id = GER_iraq_war
-		icon = GFX_goal_ENG_attack_iraq
+		icon = GFX_goal_generic_attack_iraq
 		cost = 10.00
 		prerequisite = {
 			focus = GER_turkey_friend
@@ -7570,7 +7570,7 @@ focus_tree = {
 	
 	focus = {
 		id = GER_finland_friend
-		icon = GFX_Goal_alliance_finland
+		icon = GFX_goal_generic_befriend_finland
 		cost = 5
 		prerequisite = {
 			focus = GER_sweden_friend
@@ -7648,7 +7648,7 @@ focus_tree = {
 	}
 	focus = {
 		id = GER_nationalist_spain_ally
-		icon = GFX_focus_generic_invite_nat_spain
+		icon = GFX_goal_generic_befriend_spain_nationalist
 		cost = 10.00
 		prerequisite = {
 			focus = GER_above_maginot
@@ -7737,7 +7737,7 @@ focus_tree = {
 	}
 	focus = {
 		id = GER_iran_friend
-		icon = GFX_goal_PER_agreement
+		icon = GFX_goal_generic_befriend_persia
 		cost = 10.00
 		prerequisite = {
 			focus = GER_iraq_friend
@@ -7821,7 +7821,7 @@ focus_tree = {
 	}
 	focus = {
 		id = GER_iran_war
-		icon = GFX_goal_ENG_attack_iran
+		icon = GFX_goal_generic_attack_persia
 		cost = 10.00
 		prerequisite = {
 			focus = GER_iraq_friend

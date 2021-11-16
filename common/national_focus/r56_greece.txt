@@ -5088,7 +5088,7 @@ focus = {
 
 focus = {
 		id = GRE_subjugate_yugoslavia
-		icon = GFX_goal_BUL_annex_yug
+		icon = GFX_goal_generic_attack_yugoslavia
 		prerequisite = { focus = GRE_subjugate_albania }
 		prerequisite = { focus = GRE_subjugate_bulgaria }
 		x = 2
@@ -5276,7 +5276,7 @@ focus = {
 
 	focus = {
 		id = GRE_invite_bulgaria
-		icon = GFX_goal_befriend_communist_BUL
+		icon = GFX_goal_generic_befriend_bulgaria_communist
 		prerequisite = { focus = GRE_ally_the_balkans }
 		x = -3
 		y = 1
@@ -5327,7 +5327,7 @@ focus = {
 
 	focus = {
 		id = GRE_invite_albania
-		icon = GFX_goal_befriend_communist_ALB
+		icon = GFX_goal_generic_befriend_albania_communist
 		prerequisite = { focus = GRE_ally_the_balkans }
 		x = -1
 		y = 1
@@ -5382,7 +5382,7 @@ focus = {
 
 	focus = {
 		id = GRE_invite_yugoslavia
-		icon = GFX_goal_befriend_communist_YUG
+		icon = GFX_goal_generic_befriend_yugoslavia_communist
 		prerequisite = { focus = GRE_invite_albania }
 		prerequisite = { focus = GRE_invite_bulgaria }
 		x = -2

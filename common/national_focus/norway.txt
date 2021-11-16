@@ -3459,7 +3459,7 @@ focus_tree = {
 	
 	focus = {
 		id = NOR_fourth_brother
-		icon = GFX_Goal_alliance_finland
+		icon = GFX_goal_generic_befriend_finland
 		prerequisite = { focus = NOR_three_brothers }
 		x = 0
 		y = 1
@@ -5634,7 +5634,7 @@ focus_tree = {
 	
 	focus = {
 		id = NOR_reclaim_the_mainland
-		icon = GFX_goal_annexsweden
+		icon = GFX_goal_generic_attack_sweden
 		prerequisite = { focus = NOR_reclaim_the_islands focus = NOR_approach_denmark }
 		mutually_exclusive = { focus = NOR_approach_sweden }
 		x = -1
@@ -5705,7 +5705,7 @@ focus_tree = {
 	
 	focus = {
 		id = NOR_subjugate_finland
-		icon = GFX_goal_annexfinland
+		icon = GFX_goal_generic_attack_finland
 		prerequisite = { focus = NOR_reclaim_the_mainland focus = NOR_approach_sweden }
 		mutually_exclusive = { focus = NOR_approach_finland }
 		x = -1
@@ -5769,7 +5769,7 @@ focus_tree = {
 	
 	focus = {
 		id = NOR_approach_denmark
-		icon = GFX_goal_invitedenmark
+		icon = GFX_goal_generic_befriend_denmark
 		prerequisite = { focus = NOR_the_nordic_policy }
 		mutually_exclusive = { focus = NOR_reclaim_the_islands }
 		x = 1
@@ -5798,7 +5798,7 @@ focus_tree = {
 	
 	focus = {
 		id = NOR_approach_sweden
-		icon = GFX_goal_invitesweden
+		icon = GFX_goal_generic_befriend_sweden
 		prerequisite = { focus = NOR_reclaim_the_islands focus = NOR_approach_denmark }
 		mutually_exclusive = { focus = NOR_reclaim_the_mainland }
 		x = 1
@@ -5832,7 +5832,7 @@ focus_tree = {
 	
 	focus = {
 		id = NOR_approach_finland
-		icon = GFX_Goal_alliance_finland
+		icon = GFX_goal_generic_befriend_finland
 		prerequisite = { focus = NOR_reclaim_the_mainland focus = NOR_approach_sweden }
 		mutually_exclusive = { focus = NOR_subjugate_finland }
 		x = 1

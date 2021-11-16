@@ -2677,7 +2677,7 @@ focus_tree = {
 			NOT = { has_government = communism }
 		} #TUR not in a faction
 		#prerequisite = { focus = uk_battleship_focus }
-		icon = GFX_goal_ENG_collaboration_with_turkey
+		icon = GFX_goal_generic_befriend_turkey
 		x = -3
 		y = 1
 		relative_position_id = uk_protect_suez
@@ -8538,7 +8538,7 @@ focus_tree = {
 
 		will_lead_to_war_with = IRQ
 		prerequisite = { focus = ENG_home_defence }
-		icon = GFX_goal_ENG_attack_iraq
+		icon = GFX_goal_generic_attack_iraq
 		x = -6
 		y = 1
 		offset = {
@@ -8606,7 +8606,7 @@ focus_tree = {
 		
 		will_lead_to_war_with = PER
 		prerequisite = { focus = uk_iraq_focus }
-		icon = GFX_goal_ENG_attack_iran
+		icon = GFX_goal_generic_attack_persia
 		x = 0
 		y = 1
 		relative_position_id = uk_iraq_focus
@@ -8971,7 +8971,7 @@ focus_tree = {
 		}
 		will_lead_to_war_with = SWE
 		prerequisite = { focus = uk_scandinavian_focus }
-		icon = GFX_goal_annexsweden
+		icon = GFX_goal_generic_attack_sweden
 		x = -1
 		y = 1
 		relative_position_id = uk_scandinavian_focus
@@ -9020,7 +9020,7 @@ focus_tree = {
 		}	
 		will_lead_to_war_with = NOR
 		prerequisite = { focus = uk_scandinavian_focus }
-		icon = GFX_goal_annexnorway
+		icon = GFX_goal_generic_attack_norway
 		x = 0
 		y = 2
 		relative_position_id = uk_scandinavian_focus
@@ -9069,7 +9069,7 @@ focus_tree = {
 		}		
 		will_lead_to_war_with = DEN
 		prerequisite = { focus = uk_scandinavian_focus }
-		icon = GFX_goal_annexdenmark
+		icon = GFX_goal_generic_attack_denmark
 		x = 1
 		y = 1
 		relative_position_id = uk_scandinavian_focus
@@ -10443,7 +10443,7 @@ focus_tree = {
 				NOT = { is_in_faction_with = ENG }
 			}
 		} #SPA/SPR not in a faction
-		icon = GFX_focus_generic_invite_nat_spain
+		icon = GFX_goal_generic_befriend_spain_nationalist
 		x = -1
 		y = 1
 		relative_position_id = uk_rock_focus_two
@@ -10528,7 +10528,7 @@ focus_tree = {
 
 	focus = {
 		id = ENG_ally_portugal
-		icon = GFX_goal_spr_befriend_portugal
+		icon = GFX_goal_generic_befriend_portugal
 	 	prerequisite = { 
 			focus = uk_spain_focus_two
 			focus = ENG_war_spain
@@ -10739,7 +10739,7 @@ focus_tree = {
 
 	focus = {
 		id = ENG_war_greece
-		icon = GFX_goal_BUL_annex_gre
+		icon = GFX_goal_generic_attack_greece
 		prerequisite = { focus = ENG_turkey_friend }
 		
 		available = {	
@@ -10819,7 +10819,7 @@ focus_tree = {
 
 	focus = {
 		id = ENG_war_turkey
-		icon = GFX_goal_italy_attack_turkey
+		icon = GFX_goal_generic_attack_turkey
 		prerequisite = { focus = ENG_greece_friend }
 		
 		available = {	
@@ -11336,7 +11336,7 @@ focus_tree = {
 
 	focus = {
 		id = ENG_war_denmark
-		icon = GFX_goal_annexdenmark
+		icon = GFX_goal_generic_attack_denmark
 		prerequisite = { focus = ENG_north_war}
 		
 		available = {	
@@ -11374,7 +11374,7 @@ focus_tree = {
 
 	focus = {
 		id = ENG_war_norway
-		icon = GFX_goal_annexnorway
+		icon = GFX_goal_generic_attack_norway
 		prerequisite = { focus = ENG_north_war }
 		
 		available = {	
@@ -11450,7 +11450,7 @@ focus_tree = {
 
 	focus = {
 		id = ENG_war_finland
-		icon = GFX_goal_annexfinland
+		icon = GFX_goal_generic_attack_finland
 		prerequisite = { 
 			focus = ENG_north_war 
 			focus = ENG_north_fascism
@@ -11627,7 +11627,7 @@ focus_tree = {
 
 	focus = {
 		id = ENG_pressure_iraq
-		icon = GFX_goal_GER_befriend_iraq
+		icon = GFX_goal_generic_befriend_iraq
 		prerequisite = { focus = uk_protect_suez_two }
 		available = { 
 			is_puppet = no 
@@ -11671,7 +11671,7 @@ focus_tree = {
 
 	focus = {
 		id = ENG_pressure_iran
-		icon = GFX_goal_PER_agreement
+		icon = GFX_goal_generic_befriend_persia
 		prerequisite = { focus = ENG_pressure_iraq }
 		available = { 
 			is_puppet = no 
