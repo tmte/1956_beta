@@ -3380,7 +3380,7 @@ SpriteTypes = {
 
 
 
-###--->  VLA <><> <><> <><>
+###--->  FLA <><> <><> <><>
 #-> Transport planes <><>
 	SpriteType = {
 		name = "GFX_FLA_transport_plane_equipment_medium"
