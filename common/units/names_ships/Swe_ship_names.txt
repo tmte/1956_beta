@@ -33,9 +33,9 @@ SWE_CL_HISTORICAL = {
 	fallback_name = "LK %d"
 
 	unique = {
-		"Gotland" "Fylgia" "Klas Horn" "Klas Uggla" "Göta Lejon" "Tre Kronor" "Klas Fleming"
+		"Gotland" "Fylgia" "Klas Horn" "Klas Uggla" "Göta Lejon" "Tre Kronor" "Klas Fleming" "Motala" "Nybro" "Flen" "Arvika"
 		"Kalmar" "Västervik" "Gävle" "Malmö" "Halmstad" "Karlskrona" "Sundsvall" "Luleå" "Umeå" "Härnösand" "Hudiksvall" 
-		"Uddevalla" "Helsingborg" "Varberg" "Norrköping" "Söderköping" "Visby" "Älvsnabben"
+		"Uddevalla" "Helsingborg" "Varberg" "Söderköping" "Älvsnabben" "Skara" "Nora" "Solna" "Ronneby" "Trosa" "Ystad"
 	}
 }
 
@@ -54,7 +54,7 @@ SWE_CA_HISTORICAL = {
 	unique = {
 		"Dristigheten" "Sverige" "Drottning Victoria" "Gustav V" "Äran" "Tapperheten" "Wasa" "Manligheten" "Oscar II"  
 		"Hans Wachtmeister" "Tre Kronor" "Älvsnabben" "Starkodder" "Styrbiörn" "Svealand" "Götaland" "Norrland" 
-		"Oden" "Thor" "Niord" "Svea" "Göta" "Thule" 
+		"Oden" "Thor" "Niord" "Svea" "Göta" "Thule" "Viking"
 	}
 }
 
