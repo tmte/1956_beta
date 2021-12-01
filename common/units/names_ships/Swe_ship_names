@@ -8,15 +8,15 @@ SWE_DD_HISTORICAL = {
 	type = ship
 	ship_types = { ship_hull_light destroyer }			
 
-	prefix = "HMS "
-	fallback_name = "Jagare %d"					
+	prefix = "HsWMS "
+	fallback_name = "J %d"					
 
 	unique = {											
 		"Göteborg" "Stockholm" "Malmö" "Karlskrona" "Gävle" "Norrköping" "Plisander" "Puke" "Visby" "Sundsvall" "Hälsingborg" "Kalmar" 
 		"Mode" "Magne" "Mjölner" "Munin" "Romulus" "Remus" 
 		"Öland" "Uppland" "Halland" "Småland" "Östergötland" "Södermanland" "Gästrikland" "Hälsingland" 
 		"Wrangel" "Wachtmeister" "Mjölner" "Munin" "Ragnar" "Sigurd" "Vidar" "Hugin" "Wale" 
-		"Örnen" "Jacob Bagge" "Klas Horn" "Klas Uggla" "Ehrensköld" "Nordenskjöld"
+		"Örnen" "Jacob Bagge" "Klas Horn" "Klas Uggla" "Ehrensköld" "Nordenskjöld" "Frederik Otter" "Joachim Scheel" "Stenbock" "Trolle" 
 	}
 }
 
@@ -29,11 +29,11 @@ SWE_CL_HISTORICAL = {
 	type = ship
 	ship_types = { ship_hull_cruiser light_cruiser }
 	
-	prefix = "HMS "
-	fallback_name = "Lätt Kryśsare %d"
+	prefix = "HsWMS "
+	fallback_name = "LK %d"
 
 	unique = {
-		"Gotland" "Fylgia" "Klas Horn" "Klas Uggla" "Psilander" "Göta Lejon" "Tre Kronor" "Klas Fleming"
+		"Gotland" "Fylgia" "Klas Horn" "Klas Uggla" "Göta Lejon" "Tre Kronor" "Klas Fleming"
 		"Kalmar" "Västervik" "Gävle" "Malmö" "Halmstad" "Karlskrona" "Sundsvall" "Luleå" "Umeå" "Härnösand" "Hudiksvall" 
 		"Uddevalla" "Helsingborg" "Varberg" "Norrköping" "Söderköping" "Visby" "Älvsnabben"
 	}
@@ -48,12 +48,12 @@ SWE_CA_HISTORICAL = {
 	type = ship
 	ship_types = { ship_hull_cruiser heavy_cruiser }
 	
-	prefix = "HMS "
+	prefix = "HsWMS "
 	fallback_name = "Tung Kryśsare %d"
 
 	unique = {
-		"Dristigheten" "Sverige" "Drottning Victoria" "Gustav V" "Äran" "Tapperheten" "Wasa" "Manligheten" "Oscar II" "Klas Fleming" 
-		"Hans Wachtmeister" "Tre Kronor" "Älvsnabben" "Starkodder" "Styrbiörn" "Gotland" "Svealand" "Götaland" "Norrland" 
+		"Dristigheten" "Sverige" "Drottning Victoria" "Gustav V" "Äran" "Tapperheten" "Wasa" "Manligheten" "Oscar II"  
+		"Hans Wachtmeister" "Tre Kronor" "Älvsnabben" "Starkodder" "Styrbiörn" "Svealand" "Götaland" "Norrland" 
 		"Oden" "Thor" "Niord" "Svea" "Göta" "Thule" 
 	}
 }
@@ -68,11 +68,11 @@ SWE_BB_HISTORICAL = {
 	type = ship
 	ship_types = { ship_hull_heavy battleship }
 	
-	prefix = "HMS "
+	prefix = "HsWMS "
 	fallback_name = "Slagskepp %d"		
 
 	unique = {
-		"Stockholm" "Karl XIV Johann" "Gustav II Adolf" "Karl XII" "Karl XI" "Gustav III" 
+		 "Karl XIV Johann" "Karl XII" 
 	}
 }
 
@@ -85,7 +85,7 @@ SWE_BC_HISTORICAL = {
 	type = ship
 	ship_types = { ship_hull_heavy battle_cruiser }
 	
-	prefix = "HMS "
+	prefix = "HsWMS "
 	fallback_name = "Stridsskepp %d"		
 
 	unique = {
@@ -102,11 +102,11 @@ SWE_CV_HISTORICAL = {
 	type = ship
 	ship_types = { ship_hull_carrier carrier }
 	
-	prefix = "HMS "
+	prefix = "HsWMS "
 	fallback_name = "Hangarfartyg %d"	
 
 	unique = {
-		"Kronan" "Riksäpplet" "Spiran" "Dristigheten" "Jacob Bagge" "Gotland" 
+		"Kronan" "Riksäpplet" "Spiran" "Ulrika Eleonora" "Kristina" "Margareta"
 	}
 }
 
@@ -119,8 +119,8 @@ SWE_SS_HISTORICAL = {
 	type = ship
 	ship_types = { ship_hull_submarine submarine }
 	
-	prefix = "HMS "
-	fallback_name = "Ubåt %d"
+	prefix = "HsWMS "
+	fallback_name = "U %d"
 	
 	unique = {
 		"Hajen" "Sälen" "Valrossen" "Bävern" "Illern" "Uttern" "Valen" "Draken" "Gripen" "Ulven" "Delfinen" "Nordkaparen" "Springaren"
