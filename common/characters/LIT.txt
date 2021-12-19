@@ -3,7 +3,6 @@ characters={
 		name="Antanas Smetona"
 		portraits={
 			civilian={
-				large="gfx/leaders/AFG/Portrait_Afghanistan_Mohammed_Zahir_Shah.dds"
 			}
 		}
 		country_leader={
