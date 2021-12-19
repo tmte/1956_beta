@@ -6,7 +6,9 @@ characters={
 			}
 		}
 		country_leader={
-			ideology=############################
+			traits = {
+			}
+			ideology=despotism
 			expire="1965.1.1.1"
 			id=-1
 		}
@@ -18,9 +20,9 @@ characters={
 			}
 		}
 		country_leader={
-			ideology=###
-			traits= {
+			traits = {
 			}
+			ideology=socialism
 			expire="1955.1.1.1"
 			id=-1
 		}
@@ -32,9 +34,9 @@ characters={
 			}
 		}
 		country_leader={
-			ideology=
 			traits = {
 			}
+			ideology=conservatism
 			expire="1965.1.1.1"
 			id=-1
 		}
@@ -46,9 +48,16 @@ characters={
 			}
 		}
 		country_leader={
-			ideology=fascism_ideology
 			traits = {
 			}
+			ideology=fascism_ideology
+			expire="1955.1.1.12"
+			id=-1
+		}
+		country_leader={
+			traits = {
+			}
+			ideology=gen_nazism
 			expire="1955.1.1.12"
 			id=-1
 		}
@@ -60,9 +69,9 @@ characters={
 			}
 		}
 		country_leader={
-			ideology=fascism_ideology
 			traits = {
 			}
+			ideology=fascism_ideology
 			expire="1955.1.1.12"
 			id=-1
 		}
@@ -74,9 +83,9 @@ characters={
 			}
 		}
 		country_leader={
-			ideology=##################################################
 			traits = {
 			}
+			ideology=moderatism
 			expire="1955.1.1.12"
 			id=-1
 		}
@@ -88,11 +97,22 @@ characters={
 			}
 		}
 		country_leader={
-			ideology=##################################################
 			traits = {
 			}
+			ideology=centrism
 			expire="1955.1.1.12"
 			id=-1
+		}
+		advisor={
+			slot = political_advisor
+			idea_token = 
+			allowed = {
+				original_tag = LIT
+			}
+			available = {
+			}			
+			traits = {
+			}
 		}
 	}
  	LIT_karl_gero={
@@ -102,9 +122,9 @@ characters={
 			}
 		}
 		country_leader={
-			ideology=##################################################
 			traits = {
 			}
+			ideology=absolute_monarchism
 			expire="1955.1.1.12"
 			id=-1
 		}
@@ -116,9 +136,9 @@ characters={
 			}
 		}
 		country_leader={
-			ideology=##################################################
 			traits = {
 			}
+			ideology=stalinism 
 			expire="1955.1.1.12"
 			id=-1
 		}
