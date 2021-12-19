@@ -1,0 +1,175 @@
+characters={
+	LIT_Antanas Smetona={
+		name="Antanas Smetona"
+		portraits={
+			civilian={
+				large="gfx/leaders/AFG/Portrait_Afghanistan_Mohammed_Zahir_Shah.dds"
+			}
+		}
+		country_leader={
+			ideology=############################
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+	LIT_kazys_grinius={
+		name="Kazys Grinius"
+		portraits={
+			civilian={
+			}
+		}
+		country_leader={
+			ideology=###
+			traits= {
+			}
+			expire="1955.1.1.1"
+			id=-1
+		}
+	}
+	LIT_leonas_bistras={
+		name="Leonas Bistras"
+		portraits={
+			civilian={
+			}
+		}
+		country_leader={
+			ideology=
+			traits = {
+			}
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+	LIT_augustinas_voldemaras={
+		name="Augustinas Voldemaras"
+		portraits={
+			civilian={
+			}
+		}
+		country_leader={
+			ideology=fascism_ideology
+			traits = {
+			}
+			expire="1955.1.1.12"
+			id=-1
+		}
+	}
+ 	LIT_algirdas_sliesoraitis={
+		name="Algirdas Sliesoraitis"
+		portraits={
+			civilian={
+			}
+		}
+		country_leader={
+			ideology=fascism_ideology
+			traits = {
+			}
+			expire="1955.1.1.12"
+			id=-1
+		}
+	}
+	LIT_jurgis_saulys={
+		name="Jurgis Šaulys"
+		portraits={
+			civilian={
+			}
+		}
+		country_leader={
+			ideology=##################################################
+			traits = {
+			}
+			expire="1955.1.1.12"
+			id=-1
+		}
+	}
+ 	LIT_kazys_skirpa={
+		name="Kazys Škirpa"
+		portraits={
+			civilian={
+			}
+		}
+		country_leader={
+			ideology=##################################################
+			traits = {
+			}
+			expire="1955.1.1.12"
+			id=-1
+		}
+	}
+ 	LIT_karl_gero={
+		name="Mindaugas III"
+		portraits={
+			civilian={
+			}
+		}
+		country_leader={
+			ideology=##################################################
+			traits = {
+			}
+			expire="1955.1.1.12"
+			id=-1
+		}
+	}
+  LIT_antanas_snieckus={
+		name="Antanas Sniečkus"
+		portraits={
+			civilian={
+			}
+		}
+		country_leader={
+			ideology=##################################################
+			traits = {
+			}
+			expire="1955.1.1.12"
+			id=-1
+		}
+	}
+	LIT_edvardas_adamkavicius={
+		name="Edvardas Adamkavičius"
+		portraits={
+			army={
+			}
+		}
+		corps_commander={
+			traits = { infantry_officer brilliant_strategist meticulous }
+      skill = 2
+      attack_skill = 2
+      defense_skill = 2
+      planning_skill = 1
+      logistics_skill = 2
+			legacy_id=-1
+		}
+	}
+	LIT_stasys_pundzevicius={
+		name="Stasys Pundzevičius"
+		portraits={
+			army={
+			}
+		}
+		corps_commander={
+			traits = { air_force_ties homeland_connoisseur trait_cautious }
+      skill = 2
+      attack_skill = 2
+      defense_skill = 2
+      planning_skill = 2
+      logistics_skill = 1
+			legacy_id=-1
+		}
+	}
+	LIT_mikas_reklaitis={
+		name="Mikas Rėklaitis"
+		portraits={
+			army={
+			}
+		}
+		corps_commander={
+			traits = { infantry_officer media_personality }
+      skill = 2
+      attack_skill = 1
+      defense_skill = 1
+      planning_skill = 2
+      logistics_skill = 3
+			legacy_id=-1
+		}
+	}
+}
